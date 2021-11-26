@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to Awesome Manim's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**Awesome Manim** A community-driven list of awesome content creators utilizing the python framework Manim, which let's you create mathematical animations! If you are or know any, please open an issue or contribute to the repository. 
 
 .. note::
 
@@ -18,5 +12,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   contribution
