@@ -1,4 +1,4 @@
-API
+How to contribute
 ===
 
 .. autosummary::
