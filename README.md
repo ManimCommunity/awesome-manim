@@ -1,4 +1,4 @@
 ![Manim Community Banner](https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped.png)
 
-# awesome-manim
-A database with many Manim users and content creators
+# Awesome Manim
+A community-driven list of *awesome* content creators utilizing the python framework **Manim**, which let's you create mathematical animations!
