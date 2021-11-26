@@ -1,7 +1,5 @@
-
-![Manim Community Banner](https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped.png)
-
 <div align='center'>
+  <img src='https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped.png'>
   <h1>Awesome Manim :star:</h1>
   <caption>A community-driven list of *awesome* content creators utilizing the python framework **Manim**, which let's you create mathematical animations! If you are or know any, please open an issue or contribute to the repository.</caption>
 </div>
@@ -27,6 +25,10 @@
   - [YouTube](https://www.youtube.com/channel/UCxiWCEdx7aY88bSEUgLOC6A)
 - Visual X
   - [YouTube](https://www.youtube.com/channel/UCG6qMerUJuzUxMZT7fvY4tg)
+- Gamma Mathematics
+  - [YouTube](https://www.youtube.com/channel/UCUhtTAuCuMoL0W7E2loIy_A)
+- Number Cruncher
+  - [YouTube](https://www.youtube.com/channel/UCVp2JlxMcDwvZcUu9KATXJg)
 
 ## About
 - Manim Community Edition
