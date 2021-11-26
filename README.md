@@ -1,7 +1,7 @@
 <div align='center'>
-  <img src='https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped.png'>
+  <a href="https://github.com/lucasricci/awesome-manim"><img alt="Manim Logo" src='https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped.png'></a>
   <h1>Awesome Manim :star:</h1>
-  <caption>A community-driven list of *awesome* content creators utilizing the python framework **Manim**, which let's you create mathematical animations! If you are or know any, please open an issue or contribute to the repository.</caption>
+  <caption>A community-driven list of <em>awesome</em> content creators utilizing the python framework <b>Manim</b>, which let's you create mathematical animations! If you are or know any, please open an issue or contribute to the repository.</caption>
 </div>
 
 
