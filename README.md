@@ -1,7 +1,11 @@
+
 ![Manim Community Banner](https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped.png)
 
-# Awesome Manim
-A community-driven list of *awesome* content creators utilizing the python framework **Manim**, which let's you create mathematical animations!
+<div align='center'>
+  <h1>Awesome Manim :star:</h1>
+  <caption>A community-driven list of *awesome* content creators utilizing the python framework **Manim**, which let's you create mathematical animations! If you are or know any, please open an issue or contribute to the repository.</caption>
+</div>
+
 
 ## Creators
 - Brian Amedee
@@ -33,3 +37,11 @@ A community-driven list of *awesome* content creators utilizing the python frame
 - Manim 3b1b Edition
   - [Documentation](https://3b1b.github.io/manim/)
   -  [GitHub](https://github.com/3b1b/manim)
+
+
+## How to contribute:
+
+> If you have any youtube channel or content creator that uses Manim, please contribute to our project.
+> 
+> To contribute is really simple, you just have to fork this repository, edit it in your computer and then open a pull request.
+
