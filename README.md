@@ -23,6 +23,9 @@
   - [YouTube](https://www.youtube.com/channel/UC3O_3ANkml4_3wSK1yPG5DQ)
 - Theorem of Beethoven
   - [YouTube](https://www.youtube.com/channel/UCxiWCEdx7aY88bSEUgLOC6A)
+- Tomáš Sláma
+  - [GitHub](https://github.com/xiaoxiae/videos)
+  - [YouTube](https://www.youtube.com/channel/UC_IaBSHmisYbiYlv32EeNkQ)
 - Visual X
   - [YouTube](https://www.youtube.com/channel/UCG6qMerUJuzUxMZT7fvY4tg)
 - Gamma Mathematics
