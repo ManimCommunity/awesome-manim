@@ -9,7 +9,7 @@ Welcome to Awesome Manim's documentation!
 
 Contents
 --------
-
 .. toctree::
+   :maxdepth: 2
 
-   contribution
+   contributing

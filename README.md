@@ -32,6 +32,8 @@
   - [YouTube](https://www.youtube.com/channel/UCUhtTAuCuMoL0W7E2loIy_A)
 - Number Cruncher
   - [YouTube](https://www.youtube.com/channel/UCVp2JlxMcDwvZcUu9KATXJg)
+- sudgylacmoe
+  - [YouTube](https://www.youtube.com/channel/UCEo_JfTH_9FK-7k9-mAWJkQ)
 
 ## About
 - Manim Community Edition
