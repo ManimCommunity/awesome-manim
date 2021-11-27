@@ -34,6 +34,7 @@
   - [YouTube](https://www.youtube.com/channel/UCVp2JlxMcDwvZcUu9KATXJg)
 - sudgylacmoe
   - [YouTube](https://www.youtube.com/channel/UCEo_JfTH_9FK-7k9-mAWJkQ)
+  - [Patreon](https://www.patreon.com/sudgylacmoe)
 
 ## About
 - Manim Community Edition
