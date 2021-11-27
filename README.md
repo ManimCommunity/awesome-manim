@@ -16,6 +16,8 @@
 - Kolibril
   - [Read The Docs](https://flyingframes.readthedocs.io/en/latest/)
   - [YouTube](https://www.youtube.com/c/kolibril)
+- LearnWithManim
+  - [YouTube](https://www.youtube.com/c/LearnWithManim)
 - Micro Visual Proofs (MVP)
   - [YouTube](https://www.youtube.com/channel/UCT9Fyqn0izh-wX-wDzKBwAA)
 - Spectral Collective
