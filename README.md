@@ -9,7 +9,7 @@
 - Brian Amedee
   - [YouTube](https://www.youtube.com/channel/UCnNljeRcRb_Y7Ok_TNtgB2w)
 - byyytes
-  - [YoTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
+  - [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
 - Grant Sanderson (3blue1brown)
   - [GitHub](https://github.com/3b1b/videos)
   - [YouTube](https://www.youtube.com/c/3blue1brown)
