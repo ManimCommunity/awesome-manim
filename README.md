@@ -40,9 +40,6 @@
 - sudgylacmoe
   - [YouTube](https://www.youtube.com/channel/UCEo_JfTH_9FK-7k9-mAWJkQ)
   - [Patreon](https://www.patreon.com/sudgylacmoe)
-- Veritasium
-  - [YouTube](https://www.youtube.com/c/veritasium)
-  - [Patreon](https://www.patreon.com/veritasium)
 
 ## Videos
 - Calculus
