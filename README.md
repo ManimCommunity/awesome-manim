@@ -40,7 +40,9 @@
 - sudgylacmoe
   - [YouTube](https://www.youtube.com/channel/UCEo_JfTH_9FK-7k9-mAWJkQ)
   - [Patreon](https://www.patreon.com/sudgylacmoe)
-
+- Veritasium
+  - [YouTube](https://www.youtube.com/c/veritasium)
+  - [Patreon](https://www.patreon.com/veritasium)
 ## About
 - Manim Community Edition
   - [Demo/Tutorial](https://try.manim.community/)
@@ -57,4 +59,3 @@
 > If you have any youtube channel or content creator that uses Manim, please contribute to our project.
 > 
 > To contribute is really simple, you just have to fork this repository, edit it in your computer and then open a pull request.
-
