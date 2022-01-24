@@ -20,6 +20,9 @@
   - [YouTube](https://www.youtube.com/c/LearnWithManim)
 - Micro Visual Proofs (MVP)
   - [YouTube](https://www.youtube.com/channel/UCT9Fyqn0izh-wX-wDzKBwAA)
+- Open Engineering
+  - [GitHub](https://github.com/0xCoto/OpenEngineering)
+  - [YouTube](https://www.youtube.com/channel/UCfEiVXhy9rj4wdqpD_Il6Zg)
 - Reducible
   - [GitHub](https://github.com/nipunramk/Reducible)
   - [YouTube](https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA)
@@ -34,6 +37,7 @@
 - Visual X
   - [YouTube](https://www.youtube.com/channel/UCG6qMerUJuzUxMZT7fvY4tg)
 - Gamma Mathematics
+  - [GitHub](https://github.com/lucasricci/GammaMathematics)
   - [YouTube](https://www.youtube.com/channel/UCUhtTAuCuMoL0W7E2loIy_A)
 - Number Cruncher
   - [YouTube](https://www.youtube.com/channel/UCVp2JlxMcDwvZcUu9KATXJg)
@@ -48,6 +52,21 @@
   - [Twitter](https://twitter.com/vcubingx)
   - [Instagram](https://www.instagram.com/vcubingx/)
   - [Twitch](https://www.twitch.tv/vcubingx)
+
+## Videos
+- Calculus
+  - [The essence of calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=1)
+  - [The paradox of the derivative | Chapter 2, Essence of calculus](https://www.youtube.com/watch?v=9vKqVkMQHKk&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=3)
+  - [Derivative formulas through geometry | Chapter 3, Essence of calculus](https://www.youtube.com/watch?v=S0_qX4VJhMQ&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=4)
+  - [Visualizing the chain rule and product rule | Chapter 4, Essence of calculus](https://www.youtube.com/watch?v=YG15m2VwSjA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=6)
+  - [What's so special about Euler's number e? | Chapter 5, Essence of calculus](https://www.youtube.com/watch?v=m2MIpDrF7Es&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=7)
+  - [Implicit differentiation, what's going on here? | Chapter 6, Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=8)
+  - [Limits, L'Hôpital's rule, and epsilon delta definitions | Chapter 7, Essence of calculus](https://www.youtube.com/watch?v=kfF40MiS7zA&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=9)
+  - [Integration and the fundamental theorem of calculus | Chapter 8, Essence of calculus](https://www.youtube.com/watch?v=rfG8ce4nNh0&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=10)
+  - [What does area have to do with slope? | Chapter 9, Essence of calculus](https://www.youtube.com/watch?v=FnJqaIESC2s&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=10)
+  - [Higher order derivatives | Chapter 10, Essence of calculus](https://www.youtube.com/watch?v=BLkz5LGWihw&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=11)
+  - [Taylor series | Chapter 11, Essence of calculus](https://www.youtube.com/watch?v=3d6DsjIBzJ4&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=12)
+  - [The other way to visualize derivatives | Chapter 12, Essence of calculus](https://www.youtube.com/watch?v=CfW845LNObM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=13)
 
 ## About
 - Manim Community Edition
@@ -65,4 +84,3 @@
 > If you have any youtube channel or content creator that uses Manim, please contribute to our project.
 >
 > To contribute is really simple, you just have to fork this repository, edit it in your computer and then open a pull request.
-
