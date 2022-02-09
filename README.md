@@ -36,9 +36,6 @@
   - [YouTube](https://www.youtube.com/channel/UC_IaBSHmisYbiYlv32EeNkQ)
 - Visual X
   - [YouTube](https://www.youtube.com/channel/UCG6qMerUJuzUxMZT7fvY4tg)
-- Gamma Mathematics
-  - [GitHub](https://github.com/lucasricci/GammaMathematics)
-  - [YouTube](https://www.youtube.com/channel/UCUhtTAuCuMoL0W7E2loIy_A)
 - Number Cruncher
   - [YouTube](https://www.youtube.com/channel/UCVp2JlxMcDwvZcUu9KATXJg)
 - sudgylacmoe
