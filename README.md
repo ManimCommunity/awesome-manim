@@ -49,6 +49,10 @@
   - [Twitter](https://twitter.com/vcubingx)
   - [Instagram](https://www.instagram.com/vcubingx/)
   - [Twitch](https://www.twitch.tv/vcubingx)
+- Visually Explained (Bachir El Khadir)
+  - [YouTube](https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg)
+  - [Twitter](https://twitter.com/BachirElKhadir)
+  - [Blog](https://bachirelkhadir.com/)
 
 ## Videos
 - Calculus
