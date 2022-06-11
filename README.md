@@ -23,6 +23,9 @@
   - [YouTube](https://www.youtube.com/c/LearnWithManim)
 - Micro Visual Proofs (MVP)
   - [YouTube](https://www.youtube.com/channel/UCT9Fyqn0izh-wX-wDzKBwAA)
+- Miroslav Olšák
+  - [YouTube](https://www.youtube.com/user/procdalsinazev)
+  - [Website](http://www.olsak.net/)
 - Open Engineering
   - [GitHub](https://github.com/0xCoto/OpenEngineering)
   - [YouTube](https://www.youtube.com/channel/UCfEiVXhy9rj4wdqpD_Il6Zg)
