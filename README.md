@@ -11,6 +11,9 @@
   - [Twitter](https://twitter.com/muthuveerappanr)
 - Brian Amedee
   - [YouTube](https://www.youtube.com/channel/UCnNljeRcRb_Y7Ok_TNtgB2w)
+- BriTheMathGuy
+  - [YouTube](https://www.youtube.com/c/brithemathguy)
+  - [Website](https://www.brithemathguy.com/)
 - byyytes
   - [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
 - Grant Sanderson (3blue1brown)
