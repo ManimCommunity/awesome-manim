@@ -19,6 +19,9 @@
 - Grant Sanderson (3blue1brown)
   - [GitHub](https://github.com/3b1b/videos)
   - [YouTube](https://www.youtube.com/c/3blue1brown)
+- kilacoda
+  - [YouTube](https://www.youtube.com/channel/UCYiEcjVorHS78RgoqKiIFgQ)
+  - [GitHub](https://github.com/kilacoda)
 - Kolibril
   - [Read The Docs](https://flyingframes.readthedocs.io/en/latest/)
   - [YouTube](https://www.youtube.com/c/kolibril)
