@@ -1,0 +1,130 @@
+---
+layout: default
+---
+
+<span style="display: inline">
+  <img
+    src="{{ page.profile_pic_url }}"
+    height="48px"
+    width="48px"
+    style="border-radius: 50%"
+  />
+  <span class="dev-name" style="padding-left: 1ex; font-size: large">
+    {{ page.name | escape }}
+  </span>
+</span>
+<br />
+{%- if page.youtube_portfolio_id -%} {% include youtube_vid.html
+id=page.youtube_portfolio_id width="640px" height="480px" %} {%- endif -%}
+
+<h2>Hiring Info</h2>
+
+<table>
+  {%- if page.background -%}
+  <tr>
+    <td class="first-col">Background</td>
+    <td>{{ page.background }}</td>
+  </tr>
+  {%- endif -%} {%- if page.availability -%}
+  <tr>
+    <td class="first-col">Availability</td>
+    <td>{{ page.availability }}</td>
+  </tr>
+  {%- endif -%} {%- if page.timezone -%}
+  <tr>
+    <td class="first-col">Timezone</td>
+    <td>
+      <a target="_blank" href="https://time.is/{{ page.timezone }}"
+        >{{ page.timezone }}</a
+      >
+    </td>
+  </tr>
+  {%- endif -%} {%- if page.github -%}
+  <tr>
+    <td class="first-col">GitHub</td>
+    <td>
+      <a target="_blank" href="https://github.com/{{ page.github }}"
+        >{{ page.github }}</a
+      >
+    </td>
+  </tr>
+  {%- endif -%} {%- if page.website -%}
+  <tr>
+    <td class="first-col">Website</td>
+    <td>
+      <a target="_blank" href="https://{{ page.website }}"
+        >{{ page.website }}</a
+      >
+    </td>
+  </tr>
+  {%- endif -%}
+</table>
+
+<h2>Contact</h2>
+<table>
+  {%- if page.contact_email -%}
+  <tr>
+    <td class="first-col">
+      Email {%- if page.preferred_contact == "email" -%}&nbsp;(preferred){%-
+      endif -%}
+    </td>
+    <td>
+      <a target="_blank" href="mailto:{{ page.contact_email }}"
+        >{{ page.contact_email }}</a
+      >
+    </td>
+  </tr>
+  {%- endif -%} {%- if page.discord_id and page.discord_handle -%}
+  <tr>
+    <td class="first-col">
+      Discord {%- if page.preferred_contact == "discord" -%}&nbsp;(preferred){%-
+      endif -%}
+    </td>
+    <td>
+      <a target="_blank" href="https://discord.com/users/{{ page.discord_id }}"
+        >{{ page.discord_handle }}</a
+      >
+    </td>
+  </tr>
+  {%- endif -%} {%- if page.twitter_handle -%}
+  <tr>
+    <td class="first-col">
+      Twitter {%- if page.preferred_contact == "twitter" -%}&nbsp;(preferred){%-
+      endif -%}
+    </td>
+    <td>
+      <a target="_blank" href="https://twitter.com/{{ page.twitter_handle }}"
+        >{{ page.twitter_handle }}</a
+      >
+    </td>
+  </tr>
+  {%- endif -%} {%- if page.reddit_username -%}
+  <tr>
+    <td class="first-col">
+      Reddit {%- if page.preferred_contact == "reddit" -%}&nbsp;(preferred){%-
+      endif -%}
+    </td>
+    <td>
+      <a
+        target="_blank"
+        href="https://reddit.com/user/{{ page.reddit_username }}"
+        >u/{{ page.reddit_username }}</a
+      >
+    </td>
+  </tr>
+  {%- endif -%} {%- if page.facebook_profile_url -%}
+  <tr>
+    <td class="first-col">
+      Facebook {%- if page.preferred_contact == "facebook"
+      -%}&nbsp;(preferred){%- endif -%}
+    </td>
+    <td>
+      <a target="_blank" href="{{ page.facebook_profile_url }}"
+        >Click to go to profile</a
+      >
+    </td>
+  </tr>
+  {%- endif -%}
+</table>
+
+{%- if page.content -%} {{ page.content }} {%- endif -%}

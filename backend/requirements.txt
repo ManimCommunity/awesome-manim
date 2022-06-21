@@ -1,0 +1,4 @@
+feedparser==6.0.10
+uwsgi==2.0.20
+flask==2.1.0
+requests==2.28.0

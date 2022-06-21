@@ -1,0 +1,45 @@
+<div class="card flex-child">
+  <div class="card-title">
+    <a target="_blank" href="{{ include.dev.github | slugify | prepend: '/@' | absolute_url }}">
+      <img
+      src="{{ include.dev.profile_pic_url }}"
+      height="48px"
+      width="48px"
+      style="border-radius: 50%"
+    />
+    <span class="dev-name" style="padding-left: 1ex; font-size: large">
+      {{ include.dev.name | escape }}
+    </div>
+  </span></a>
+  <!-- {%- if include.dev.youtube_portfolio_id -%}
+  {% include youtube_vid.html id=include.dev.youtube_portfolio_id width="480px" height="270px" %}
+  {%- endif -%} {%- if include.dev.github -%} -->
+  <p class="dev-github">
+    <b>GitHub:</b>&nbsp;<a
+      target="_blank"
+      href="https://github.com/{{ include.dev.github }}"
+      >{{ include.dev.github }}</a
+    >
+  </p>
+  {%- endif -%} {%- if include.dev.website -%}
+  <p class="dev-website">
+    <b>Website:</b>&nbsp;<a target="_blank" href="https://{{ include.dev.website }}"
+      >{{ include.dev.website }}</a
+    >
+  </p>
+  {%- endif -%} {%- if include.dev.discord_id and include.dev.discord_handle -%}
+  <p class="dev-discord">
+    <b>Discord:</b>&nbsp;<a
+      target="_blank"
+      href="https://discord.com/users/{{ include.dev.discord_id }}"
+      >{{ include.dev.discord_handle }}</a
+    >
+  </p>
+  {%- endif -%} {%- if include.dev.background -%}
+  <p class="dev-background"><b>Background:</b>&nbsp;{{ include.dev.background }}</p>
+  {%- endif -%} {%- if include.dev.availability -%}
+  <p class="dev-status"><b>Availability:</b>&nbsp;{{ include.dev.availability }}</p>
+  {%- endif -%} {%- if include.dev.timezone -%}
+  <p class="dev-timezone"><b>Timezone:</b>&nbsp;{{ include.dev.timezone }}</p>
+  {%- endif -%}
+</div>

@@ -1,0 +1,38 @@
+# Site settings
+title: awesome-manim
+# email:
+description: "Awesome Manim Creators"
+# url: ""
+# baseurl: ""
+# twitter_username: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# theme: "minima"
+remote_theme: jekyll/minima
+
+collections:
+  devs:
+    output: true
+    permalink: /@:slug
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+  - jekyll-youtube
+
+header_pages:
+  - about.md
+
+minima:
+  skin: dark
+
+# configure kramdown
+kramdown:
+  parse_block_html: true
+
+highlighter: rouge
+
+excerpt_separator: <!--more-->
