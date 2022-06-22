@@ -6,38 +6,49 @@ layout: home
 <div id="videos" class="card-container"></div>
 <script>
   function setPage(rows) {
-    $("#videos").empty();
+    result = "";
     rows.forEach((row) => {
-      $("#videos").append(
+      result =
+        result +
         "<div class='card'>" +
-          "<a target='_blank' href='" +
-          row.link +
-          "'>" +
-          "<img src='" +
-          row.thumbnail_url +
-          "' class='thumbnail'/>" +
-          "<div class='card-title'>" +
-          "<div class='video-title'>" +
-          row.title +
-          "</div>" +
-          "</a>" +
-          "<div class='video-author'>" +
-          row.author +
-          "</div>" +
-          "<div class='video-date'>" +
-          formatNumber(row.view_count)+" views • "+new Date(row.published).toLocaleDateString() +
-          // Date(1) +
-          "</div>" +
-          "</div></div>"
-      );
+        "<a target='_blank' href='" +
+        row.link +
+        "'>" +
+        "<img src='" +
+        row.thumbnail_url +
+        "' class='thumbnail'/>" +
+        "<div class='card-title'>" +
+        "<div class='video-title'>" +
+        row.title +
+        "</div>" +
+        "</a>" +
+        "<div class='video-author'>" +
+        row.author +
+        "</div>" +
+        "<div class='video-date'>" +
+        formatNumber(row.view_count) +
+        " views • " +
+        new Date(row.published).toLocaleDateString() +
+        "</div>" +
+        "</div></div>";
     });
-    console.log(rows);
+    return result;
   }
-  function onLoad() {
-    $.get("http://localhost:3001/videos/1", {}, function (data) {
-      setPage(JSON.parse(data).data);
-    });
-  }
+  let $container = $(".card-container").infiniteScroll({
+    path: function () {
+      console.log("Loading new page")
+      return `http://localhost:3001/videos/${this.pageIndex}`;
+    },
+    // append: ".card",
+    history: false,
+    responseBody: "json",
+  });
 
-  window.onload = onLoad;
+  $container.on("load.infiniteScroll", function (event, data) {
+    console.log(data);
+    $items = $(setPage(data.data));
+    $container.infiniteScroll("appendItems", $items);
+  });
+  $container.infiniteScroll("loadNextPage");
+
 </script>

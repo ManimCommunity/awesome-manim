@@ -29,12 +29,17 @@
   // display: inline;
 }
 .video-title {
-  font-size: larger;
+  // font-size: large;
   font-weight: bold;
   margin-bottom: 0.5ex;
 }
 .video-author {
   margin-bottom: 0.25ex;
+  font-size: smaller;
+}
+
+.video-date {
+  font-size: smaller;
 }
 
 .card {
