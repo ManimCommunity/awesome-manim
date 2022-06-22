@@ -5,6 +5,8 @@ layout: home
 <h1>Latest Videos</h1>
 <div id="videos" class="card-container"></div>
 <script>
+  // let DATA_PATH = "http://localhost:3001/videos/";
+  let DATA_PATH = "https://awesome-manim.uc.r.appspot.com/videos/";
   function setPage(rows) {
     result = "";
     rows.forEach((row) => {
@@ -23,7 +25,7 @@ layout: home
         "</div>" +
         "</a>" +
         "<div class='video-author'>" +
-        row.author +
+        `<a target="_blank", href='https://youtube.com/channel/${row.yt_channelid}'>${row.author}</a>` +
         "</div>" +
         "<div class='video-date'>" +
         formatNumber(row.view_count) +
@@ -36,8 +38,8 @@ layout: home
   }
   let $container = $(".card-container").infiniteScroll({
     path: function () {
-      console.log("Loading new page")
-      return `http://localhost:3001/videos/${this.pageIndex}`;
+      console.log("Loading new page");
+      return DATA_PATH + `${this.pageIndex}`;
     },
     // append: ".card",
     history: false,
@@ -50,5 +52,4 @@ layout: home
     $container.infiniteScroll("appendItems", $items);
   });
   $container.infiniteScroll("loadNextPage");
-
 </script>

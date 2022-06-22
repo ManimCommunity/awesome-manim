@@ -18,3 +18,5 @@ runtime: python39
 entrypoint: uwsgi --http-socket :8080 --wsgi-file main.py --callable app --master --processes 1 --threads 2
 # [END gae_python3_custom_runtime]
 # [END gae_python38_custom_runtime]
+includes:
+  - env_variables.yaml
