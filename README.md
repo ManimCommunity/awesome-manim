@@ -48,6 +48,9 @@
   - [YouTube](https://www.youtube.com/channel/UC3O_3ANkml4_3wSK1yPG5DQ)
 - Theorem of Beethoven
   - [YouTube](https://www.youtube.com/channel/UCxiWCEdx7aY88bSEUgLOC6A)
+- TheSiGuy
+  - [YouTube](https://www.youtube.com/c/TheSiGuyEN)
+  - [Facebook](https://www.facebook.com/thesiguyEN/)
 - Tomáš Sláma
   - [GitHub](https://github.com/xiaoxiae/videos)
   - [YouTube](https://www.youtube.com/channel/UC_IaBSHmisYbiYlv32EeNkQ)
