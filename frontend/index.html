@@ -3,7 +3,20 @@ layout: home
 ---
 
 <h1>Latest Videos</h1>
+
 <div id="videos" class="card-container"></div>
+<div class="page-load-status">
+  <div class="infinite-scroll-request">
+    <div class="card-container">
+      <div class="card card-empty"><div class="card-loading"></div></div>
+      <div class="card card-empty"><div class="card-loading"></div></div>
+      <div class="card card-empty"><div class="card-loading"></div></div>
+    </div>
+  </div>
+  <p class="infinite-scroll-last">End of content</p>
+  <p class="infinite-scroll-error">No more pages to load</p>
+</div>
+
 <script>
   // let DATA_PATH = "http://localhost:3001/videos/";
   let DATA_PATH = "https://awesome-manim.uc.r.appspot.com/videos/";
@@ -36,7 +49,7 @@ layout: home
     });
     return result;
   }
-  let $container = $(".card-container").infiniteScroll({
+  let $container = $("#videos").infiniteScroll({
     path: function () {
       console.log("Loading new page");
       return DATA_PATH + `${this.pageIndex}`;
@@ -44,6 +57,7 @@ layout: home
     // append: ".card",
     history: false,
     responseBody: "json",
+    status: ".page-load-status",
   });
 
   $container.on("load.infiniteScroll", function (event, data) {
