@@ -73,6 +73,8 @@
   - [YouTube](https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg)
   - [Twitter](https://twitter.com/BachirElKhadir)
   - [Blog](https://bachirelkhadir.com/)
+- zhuli
+  - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
 
 ## Videos
 - Calculus
