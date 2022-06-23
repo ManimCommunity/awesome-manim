@@ -54,6 +54,9 @@
 
 .thumbnail {
   margin-bottom: 0.75rem;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  height: auto;
 }
 
 .card-container {
@@ -159,7 +162,8 @@
     50% 50%;
   animation: phAnimation 0.8s linear infinite;
 
-  height: 240px;
+  // height: 200px;
+  aspect-ratio: 16 / 9;
 }
 
 @keyframes phAnimation {
