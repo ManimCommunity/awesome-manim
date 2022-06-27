@@ -8,9 +8,11 @@ import requests
 import json
 from dotenv import load_dotenv
 from datetime import datetime
-from flask import Flask
+from flask import Flask, request
 from flask_cors import CORS, cross_origin
 from supabase import create_client, Client
+
+from helper import get_youtube_channel_id_from_custom_name
 
 CRAWL_DELAY = 5
 SECONDS_IN_DAY = 24 * 60 * 60
@@ -54,12 +56,24 @@ def update_entries():
 
     # Get channel URLs from the content
     channel_ids = []
+    channel_custom_names = []
     # channel_ids.extend(re.findall(r"https://www.youtube.com/channel/[0-9a-zA-Z_-]+", content))
-    # channel_ids.extend(re.findall(r"https://www.youtube.com/c/[0-9a-zA-Z_-]+", content))
     channel_ids.extend(
         re.findall(r"(?<=https://www.youtube.com/channel/)[0-9a-zA-Z_-]+", content)
     )
-    # channel_ids = [channel_ids[0]]
+    channel_custom_names.extend(
+        re.findall(r"(?<=https://www.youtube.com/c/)[0-9a-zA-Z_-]+", content)
+    )
+
+    for channel_custom_name in channel_custom_names:
+        try:
+            channel_id = get_youtube_channel_id_from_custom_name(channel_custom_name)
+            if channel_id:
+                channel_ids.append(channel_id)
+        except:
+            print("Could not get the channel ID for", channel_custom_name)
+
+        time.sleep(CRAWL_DELAY)
 
     new_entries = []
     for id in channel_ids:
@@ -104,36 +118,32 @@ def update_entries():
 
 app = Flask(__name__)
 cors = CORS(app)
-app.config['CORS_HEADERS'] = 'Content-Type'
+app.config["CORS_HEADERS"] = "Content-Type"
+
 
 @app.route("/videos/<int:page_id>")
 @cross_origin()
 def videos(page_id: int):
     if page_id <= 0:
         return "[]"
-    rows = supabase.table("video").select("*").order("published",desc=True).range(
-        (page_id - 1) * VIDEOS_PER_PAGE, page_id * VIDEOS_PER_PAGE
-    ).execute()
+    rows = (
+        supabase.table("video")
+        .select("*")
+        .order("published", desc=True)
+        .range((page_id - 1) * VIDEOS_PER_PAGE, page_id * VIDEOS_PER_PAGE)
+        .execute()
+    )
     return rows.json()
 
 
 @app.route("/update")
-@cross_origin()
 def update():
-    # global CURRENTLY_CRAWLING, LAST_UPDATED
-    data = get_data()
-    # if not data["currently_crawling"] and now() > data["last_updated"] + SECONDS_IN_DAY:
-    data["currently_crawling"] = True
-    save_data(data)
-    try:
-        data = update_entries(data)
-        save_data(data)
-    except:
-        data["currently_crawling"] = False
-        save_data(data)
-        return "There was a problem with the update"
+    if "X-Appengine-Cron" in request.headers:
+        if request.headers["X-Appengine-Cron"] == "true":
+            update_entries()
+            return "Update complete", 200
 
-    return "Update complete"
+    return "Forbidden", 403
 
 
 if __name__ == "__main__":
