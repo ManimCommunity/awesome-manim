@@ -1,8 +1,5 @@
 import re
 import os
-# import requests
-from fake_useragent import UserAgent
-from requests_toolbelt import user_agent
 from youtube_search import Service
 from dotenv import load_dotenv
 load_dotenv()
