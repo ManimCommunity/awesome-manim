@@ -51,7 +51,7 @@
 - Theorem of Beethoven
   - [YouTube](https://www.youtube.com/channel/UCxiWCEdx7aY88bSEUgLOC6A)
 - TheSiGuy
-  - [YouTube](https://www.youtube.com/c/TheSiGuyEN)
+  - [YouTube](https://www.youtube.com/channel/UCcTgnJE_RKa8-Qzx6lB78lg)
   - [Facebook](https://www.facebook.com/thesiguyEN/)
 - Tomáš Sláma
   - [GitHub](https://github.com/xiaoxiae/videos)
