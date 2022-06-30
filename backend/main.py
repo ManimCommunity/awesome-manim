@@ -107,7 +107,12 @@ def update_entries():
         try:
             supabase.table("video").upsert(row, ignore_duplicates=True).execute()
         except:
-            pass
+            try:
+                yt_videoid = row["yt_videoid"]
+                del row["yt_videoid"]
+                supabase.table("video").update(row).eq("yt_videoid", yt_videoid).execute()
+            except:
+                pass
     # supabase.table("video").upsert(rows, ignore_duplicates=True).execute()
 
     # data["entries"] = new_entries
