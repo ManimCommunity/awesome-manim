@@ -43,6 +43,8 @@
 - Reducible
   - [GitHub](https://github.com/nipunramk/Reducible)
   - [YouTube](https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA)
+- Rooney
+  - [YouTube](https://www.youtube.com/channel/UCvYCMicLA7TZNfYhOaSCOsw)
 - Spectral Collective
   - [GitHub](https://github.com/vilasopher/manim)
   - [YouTube](https://www.youtube.com/channel/UC3O_3ANkml4_3wSK1yPG5DQ)
