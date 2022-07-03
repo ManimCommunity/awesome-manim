@@ -32,6 +32,10 @@
   - [YouTube](https://www.youtube.com/c/kolibril)
 - LearnWithManim
   - [YouTube](https://www.youtube.com/c/LearnWithManim)
+- Mathemaniac
+  - [YouTube](https://www.youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg)
+  - [Twitter](https://twitter.com/mathemaniacyt)
+  - [Patreon](https://www.patreon.com/mathemaniac)
 - Micro Visual Proofs (MVP)
   - [YouTube](https://www.youtube.com/channel/UCT9Fyqn0izh-wX-wDzKBwAA)
 - Miroslav Olšák
