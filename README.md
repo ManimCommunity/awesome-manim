@@ -10,7 +10,7 @@
   - [YouTube](https://www.youtube.com/channel/UCofF7Mp_VtoOZ9rhl_ueX7g)
   - [Twitter](https://twitter.com/muthuveerappanr)
 - Benjamin Hackl
-  - [YouTube](https://www.youtube.com/benjaminhackl)
+  - [YouTube](https://www.youtube.com/channel/UC-PzdUy0Y5biP7EjQ1TtI_g)
   - [Twitch](https://twitch.tv/behackl)
   - [GitHub](https://github.com/behackl)
   - [Website](https://benjamin-hackl.at)
