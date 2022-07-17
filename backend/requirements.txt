@@ -1,0 +1,8 @@
+feedparser==6.0.10
+uwsgi==2.0.20
+flask==2.1.0
+requests==2.28.0
+supabase==0.5.7
+python-dotenv==0.20.0
+Flask_Cors==3.0.10
+google_api_python_client==2.51.0

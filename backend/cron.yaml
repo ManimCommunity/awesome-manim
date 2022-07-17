@@ -1,0 +1,4 @@
+cron:
+- description: "daily video update"
+  url: /update
+  schedule: every 24 hours

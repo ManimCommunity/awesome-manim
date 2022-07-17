@@ -1,0 +1,69 @@
+---
+layout: home
+---
+
+<h1>Latest Videos</h1>
+
+<div id="videos" class="card-container"></div>
+<div class="page-load-status">
+  <div class="infinite-scroll-request">
+    <div class="card-container">
+      <div class="card card-empty"><div class="card-loading"></div></div>
+      <div class="card card-empty"><div class="card-loading"></div></div>
+      <div class="card card-empty"><div class="card-loading"></div></div>
+    </div>
+  </div>
+  <p class="infinite-scroll-last">End of content</p>
+  <p class="infinite-scroll-error">No more pages to load</p>
+</div>
+
+<script>
+  // let DATA_PATH = "http://localhost:3001/videos/";
+  let DATA_PATH = "https://awesome-manim.uc.r.appspot.com/videos/";
+  function setPage(rows) {
+    result = "";
+    rows.forEach((row) => {
+      result =
+        result +
+        "<div class='card'>" +
+        "<a target='_blank' href='" +
+        row.link +
+        "'>" +
+        "<img width='1280px' height='720px' src='" +
+        row.thumbnail_url +
+        "' class='thumbnail'/>" +
+        "<div class='card-title'>" +
+        "<div class='video-title'>" +
+        row.title +
+        "</div>" +
+        "</a>" +
+        "<div class='video-author'>" +
+        `<a target="_blank", href='https://youtube.com/channel/${row.yt_channelid}'>${row.author}</a>` +
+        "</div>" +
+        "<div class='video-date'>" +
+        formatNumber(row.view_count) +
+        " views • " +
+        new Date(row.published).toLocaleDateString() +
+        "</div>" +
+        "</div></div>";
+    });
+    return result;
+  }
+  let $container = $("#videos").infiniteScroll({
+    path: function () {
+      console.log("Loading new page");
+      return DATA_PATH + `${this.pageIndex}`;
+    },
+    // append: ".card",
+    history: false,
+    responseBody: "json",
+    status: ".page-load-status",
+  });
+
+  $container.on("load.infiniteScroll", function (event, data) {
+    console.log(data);
+    $items = $(setPage(data.data));
+    $container.infiniteScroll("appendItems", $items);
+  });
+  $container.infiniteScroll("loadNextPage");
+</script>
