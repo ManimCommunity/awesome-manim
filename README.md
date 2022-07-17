@@ -24,6 +24,8 @@
 - Grant Sanderson (3blue1brown)
   - [GitHub](https://github.com/3b1b/videos)
   - [YouTube](https://www.youtube.com/c/3blue1brown)
+- Kevin Lubick
+  - [YouTube](https://www.youtube.com/c/KevinLubick)
 - kilacoda
   - [YouTube](https://www.youtube.com/channel/UCYiEcjVorHS78RgoqKiIFgQ)
   - [GitHub](https://github.com/kilacoda)
