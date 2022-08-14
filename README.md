@@ -36,6 +36,8 @@
   - [YouTube](https://www.youtube.com/c/kolibril)
 - LearnWithManim
   - [YouTube](https://www.youtube.com/c/LearnWithManim)
+- Lines That Connect
+  - [YouTube](https://www.youtube.com/channel/UCOzuch8oW61hVYffbQ-upWw)
 - Micro Visual Proofs (MVP)
   - [YouTube](https://www.youtube.com/channel/UCT9Fyqn0izh-wX-wDzKBwAA)
 - Miroslav Olšák
