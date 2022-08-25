@@ -46,6 +46,12 @@
 - Open Engineering
   - [GitHub](https://github.com/0xCoto/OpenEngineering)
   - [YouTube](https://www.youtube.com/channel/UCfEiVXhy9rj4wdqpD_Il6Zg)
+-REANLEA 
+  - [YouTube](https://www.youtube.com/reanlea)
+  - [Reddit](https://www.reddit.com/r/reanlea/)
+  - [Website](https://reanlea.com/)
+  - [Twitter](https://twitter.com/reanlea_)
+  - [Discord](https://discord.com/invite/GNPx7ED6Yu)
 - Reducible
   - [GitHub](https://github.com/nipunramk/Reducible)
   - [YouTube](https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA)
