@@ -46,6 +46,18 @@ def save_data(data):
     return open(TMP_FILE, "w").write(json.dumps(data))
 
 
+def is_manim_video(entry):
+    try:
+        check_str = entry["title"] + " " + entry["summary"]
+        return (
+            "manim" in check_str.lower()
+            or "#some" in check_str.lower()
+            or "SoME" in check_str
+        )
+    except:
+        return False
+
+
 def update_entries():
     # Get the README content
     # readme_path = Path(__file__).parent.parent.joinpath(Path("README.md")).absolute()
@@ -70,6 +82,9 @@ def update_entries():
             channel_id = get_youtube_channel_id_from_custom_name(channel_custom_name)
             if channel_id:
                 channel_ids.append(channel_id)
+                print("Channel ID for", channel_custom_name, "=", channel_id)
+            else:
+                print("Could not get the channel ID for", channel_custom_name)
         except:
             print("Could not get the channel ID for", channel_custom_name)
 
@@ -100,6 +115,7 @@ def update_entries():
                 "view_count": entry["media_statistics"]["views"],
                 "like_count": entry["media_starrating"]["count"],
                 "json": entry,
+                "is_manim_video": is_manim_video(entry),
             }
         )
 
@@ -110,7 +126,9 @@ def update_entries():
             try:
                 yt_videoid = row["yt_videoid"]
                 del row["yt_videoid"]
-                supabase.table("video").update(row).eq("yt_videoid", yt_videoid).execute()
+                supabase.table("video").update(row).eq(
+                    "yt_videoid", yt_videoid
+                ).execute()
             except:
                 pass
     # supabase.table("video").upsert(rows, ignore_duplicates=True).execute()
@@ -134,6 +152,7 @@ def videos(page_id: int):
     rows = (
         supabase.table("video")
         .select("*")
+        .eq("is_manim_video", True)
         .order("published", desc=True)
         .range((page_id - 1) * VIDEOS_PER_PAGE, page_id * VIDEOS_PER_PAGE)
         .execute()
