@@ -17,25 +17,25 @@
 - Brian Amedee
   - [YouTube](https://www.youtube.com/channel/UCnNljeRcRb_Y7Ok_TNtgB2w)
 - BriTheMathGuy
-  - [YouTube](https://www.youtube.com/c/brithemathguy)
+  - [YouTube](https://www.youtube.com/channel/UChVUSXFzV8QCOKNWGfE56YQ)
   - [Website](https://www.brithemathguy.com/)
 - byyytes
   - [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
 - Grant Sanderson (3blue1brown)
   - [GitHub](https://github.com/3b1b/videos)
-  - [YouTube](https://www.youtube.com/c/3blue1brown)
+  - [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - jHan (a + bi)
   - [YouTube](https://www.youtube.com/channel/UCPX4OLPrulGFE_c1FXZjwzg)
 - Kevin Lubick
-  - [YouTube](https://www.youtube.com/c/KevinLubick)
+  - [YouTube](https://www.youtube.com/channel/UCAki4c6w4tJTZFZ6iIhgK5g)
 - kilacoda
   - [YouTube](https://www.youtube.com/channel/UCYiEcjVorHS78RgoqKiIFgQ)
   - [GitHub](https://github.com/kilacoda)
 - Kolibril
   - [Read The Docs](https://flyingframes.readthedocs.io/en/latest/)
-  - [YouTube](https://www.youtube.com/c/kolibril)
+  - [YouTube](https://www.youtube.com/channel/UCq-aIJ8sN1-G2ZzIyWYostw)
 - LearnWithManim
-  - [YouTube](https://www.youtube.com/c/LearnWithManim)
+  - [YouTube](https://www.youtube.com/channel/UCbinG0Q-7SXQgt_pU82AYbA)
 - Lines That Connect
   - [YouTube](https://www.youtube.com/channel/UCOzuch8oW61hVYffbQ-upWw)
 - Micro Visual Proofs (MVP)
@@ -73,7 +73,7 @@
   - [YouTube](https://www.youtube.com/channel/UCEo_JfTH_9FK-7k9-mAWJkQ)
   - [Patreon](https://www.patreon.com/sudgylacmoe)
 - vcubingx
-  - [YouTube](https://www.youtube.com/c/VCubingX)
+  - [YouTube](https://www.youtube.com/channel/UCv0nF8zWevEsSVcmz6mlw6A)
   - [Website](https://vcubingx.com/)
   - [GitHub](https://github.com/vivek3141)
   - [Patreon](https://www.patreon.com/vcubingx)
