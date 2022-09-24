@@ -41,6 +41,9 @@
 - Manim Kindergarten
   - [YouTube](https://www.youtube.com/channel/UCk1nsj8AvzuSVL_I4JieVNQ)
   - [GitHub](https://github.com/manim-kindergarten)
+- Mathink
+  - [YouTube](https://www.youtube.com/channel/UCI65gVePkYfSiwj5LSOMlUw)
+  - [GitHub](https://github.com/MathinkYT/manim_videos)
 - Micro Visual Proofs (MVP)
   - [YouTube](https://www.youtube.com/channel/UCT9Fyqn0izh-wX-wDzKBwAA)
 - Miroslav Olšák
