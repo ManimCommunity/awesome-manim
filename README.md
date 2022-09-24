@@ -38,6 +38,9 @@
   - [YouTube](https://www.youtube.com/channel/UCbinG0Q-7SXQgt_pU82AYbA)
 - Lines That Connect
   - [YouTube](https://www.youtube.com/channel/UCOzuch8oW61hVYffbQ-upWw)
+- Manim Kindergarten
+  - [YouTube](https://www.youtube.com/channel/UCk1nsj8AvzuSVL_I4JieVNQ)
+  - [GitHub](https://github.com/manim-kindergarten)
 - Micro Visual Proofs (MVP)
   - [YouTube](https://www.youtube.com/channel/UCT9Fyqn0izh-wX-wDzKBwAA)
 - Miroslav Olšák
