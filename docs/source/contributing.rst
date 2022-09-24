@@ -2,7 +2,7 @@
 Contributing
 ############
 
-Thank you for your interest in contributing to our little project.
+Thank you for your interest in contributing.
 
 
 Contributing can be confusing, so here are a guide:
@@ -11,7 +11,7 @@ Contributing can be confusing, so here are a guide:
 
    For intructions see https://git-scm.com/.
    
-#. Fork the project. Go to https://github.com/lucasricci/awesome-manim and click the "fork" button to create a copy of the repository for you to work on. You will also need a Github account.
+#. Fork the project. Go to https://github.com/ManimCommunity/awesome-manim and click the "fork" button to create a copy of the repository for you to work on. You will also need a Github account.
 
 #. Clone your fork to your local computer:
 
@@ -20,7 +20,7 @@ Contributing can be confusing, so here are a guide:
       git clone https://github.com/<your-username>/awesome-manim.git
    
    .. WARNING::
-      Do not clone the AwesomeManim repository. You must clone your own fork.
+      Do not clone the ManimCommunity/awesome-manim repository. You must clone your own fork.
 
 #. Change the directory to enter the project folder:
 
