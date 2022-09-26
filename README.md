@@ -31,6 +31,9 @@
 - kilacoda
   - [YouTube](https://www.youtube.com/channel/UCYiEcjVorHS78RgoqKiIFgQ)
   - [GitHub](https://github.com/kilacoda)
+- kleines Filmröllchen
+  - [YouTube](https://www.youtube.com/channel/UCAml70e25ft26vCX-UNSgmA)
+  - [GitHub](https://github.com/kleinesfilmroellchen)
 - Kolibril
   - [Read The Docs](https://flyingframes.readthedocs.io/en/latest/)
   - [YouTube](https://www.youtube.com/channel/UCq-aIJ8sN1-G2ZzIyWYostw)
