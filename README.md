@@ -31,6 +31,9 @@
 - kilacoda
   - [YouTube](https://www.youtube.com/channel/UCYiEcjVorHS78RgoqKiIFgQ)
   - [GitHub](https://github.com/kilacoda)
+- kleines Filmröllchen
+  - [YouTube](https://www.youtube.com/channel/UCAml70e25ft26vCX-UNSgmA)
+  - [GitHub](https://github.com/kleinesfilmroellchen)
 - Kolibril
   - [Read The Docs](https://flyingframes.readthedocs.io/en/latest/)
   - [YouTube](https://www.youtube.com/channel/UCq-aIJ8sN1-G2ZzIyWYostw)
@@ -52,6 +55,11 @@
 - Open Engineering
   - [GitHub](https://github.com/0xCoto/OpenEngineering)
   - [YouTube](https://www.youtube.com/channel/UCfEiVXhy9rj4wdqpD_Il6Zg)
+- REANLEA 
+  - [YouTube](https://www.youtube.com/reanlea)
+  - [Reddit](https://www.reddit.com/r/reanlea/)
+  - [Website](https://reanlea.com/)
+  - [Twitter](https://twitter.com/reanlea_)
 - Reducible
   - [GitHub](https://github.com/nipunramk/Reducible)
   - [YouTube](https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA)
