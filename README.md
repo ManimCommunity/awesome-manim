@@ -100,9 +100,9 @@
   - [YouTube](https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg)
   - [Twitter](https://twitter.com/BachirElKhadir)
   - [Blog](https://bachirelkhadir.com/)
-- WuDianQiBian(五点七边)
+- WuDianQiBian (五点七边)
   - [YouTube](https://www.youtube.com/@WuDianQiBian)
-  - [Bilibili](https://www.bilibili.com/video/BV1d54y1q7k7)
+  - [Bilibili](https://space.bilibili.com/643755221)
 - zhuli
   - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
 
