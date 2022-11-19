@@ -49,6 +49,9 @@
 - Mathink
   - [YouTube](https://www.youtube.com/channel/UCjk8AJj6bfqG4MInL3LB-QA)
   - [GitHub](https://github.com/MathinkYT/manim_videos)
+- mattbatwings
+  - [YouTube](https://www.youtube.com/@Mattbatwings)
+  - [Patreon](https://www.patreon.com/mattbatwings)
 - Micro Visual Proofs (MVP)
   - [YouTube](https://www.youtube.com/channel/UCT9Fyqn0izh-wX-wDzKBwAA)
 - Miroslav Olšák
