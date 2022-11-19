@@ -21,6 +21,8 @@
   - [Website](https://www.brithemathguy.com/)
 - byyytes
   - [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
+- CS with Terry
+  - [YouTube](https://www.youtube.com/channel/UCCqI89pQq6ngYPnfgDkL2-w)
 - Grant Sanderson (3blue1brown)
   - [GitHub](https://github.com/3b1b/videos)
   - [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
@@ -98,6 +100,9 @@
   - [YouTube](https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg)
   - [Twitter](https://twitter.com/BachirElKhadir)
   - [Blog](https://bachirelkhadir.com/)
+- WuDianQiBian (五点七边)
+  - [YouTube](https://www.youtube.com/channel/UCz_F7yBzxTqTEG-GvhKsCsw)
+  - [Bilibili](https://space.bilibili.com/643755221)
 - zhuli
   - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
 
