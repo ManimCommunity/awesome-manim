@@ -26,6 +26,9 @@
 - Grant Sanderson (3blue1brown)
   - [GitHub](https://github.com/3b1b/videos)
   - [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- Gergely Bencsik
+  - [YouTube](https://www.youtube.com/channel/UCFYWzLgsAdveK1KBZJb8QGg)
+  - [GitHub](https://github.com/GarryBGoode)
 - jHan (a + bi)
   - [YouTube](https://www.youtube.com/channel/UCPX4OLPrulGFE_c1FXZjwzg)
 - Kevin Lubick
