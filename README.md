@@ -63,6 +63,9 @@
 - Open Engineering
   - [GitHub](https://github.com/0xCoto/OpenEngineering)
   - [YouTube](https://www.youtube.com/channel/UCfEiVXhy9rj4wdqpD_Il6Zg)
+- ParaDoppler (Spanish)
+  - [YouTube](https://www.youtube.com/channel/UCd_Kj_7JmfFwNqsV8EaaSRw)
+  - [Twitter](https://twitter.com/ParaDoppler)
 - REANLEA 
   - [YouTube](https://www.youtube.com/reanlea)
   - [Reddit](https://www.reddit.com/r/reanlea/)
