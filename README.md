@@ -49,6 +49,8 @@
 - Manim Kindergarten
   - [YouTube](https://www.youtube.com/channel/UCk1nsj8AvzuSVL_I4JieVNQ)
   - [GitHub](https://github.com/manim-kindergarten)
+- MathemARTics
+  -[Youtube](https://www.youtube.com/@mathemartics)
 - Mathink
   - [YouTube](https://www.youtube.com/channel/UCjk8AJj6bfqG4MInL3LB-QA)
   - [GitHub](https://github.com/MathinkYT/manim_videos)
