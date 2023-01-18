@@ -69,9 +69,11 @@
   - [YouTube](https://www.youtube.com/channel/UCd_Kj_7JmfFwNqsV8EaaSRw)
   - [Twitter](https://twitter.com/ParaDoppler)
 - REANLEA 
-  - [YouTube](https://www.youtube.com/reanlea)
-  - [Reddit](https://www.reddit.com/r/reanlea/)
   - [Website](https://reanlea.com/)
+  - [YouTube](https://www.youtube.com/reanlea)
+  - [Patreon](https://www.patreon.com/reanlea)
+  - [Discord](https://discord.com/invite/r2Bd2CS6S7)
+  - [Reddit](https://www.reddit.com/r/reanlea/)
   - [Twitter](https://twitter.com/reanlea_)
 - Reducible
   - [GitHub](https://github.com/nipunramk/Reducible)
