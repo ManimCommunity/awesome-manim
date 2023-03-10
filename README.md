@@ -46,6 +46,8 @@
   - [YouTube](https://www.youtube.com/channel/UCq-aIJ8sN1-G2ZzIyWYostw)
 - LearnWithManim
   - [YouTube](https://www.youtube.com/channel/UCbinG0Q-7SXQgt_pU82AYbA)
+- Amit K Das (LeastAction)
+  - [YouTube](https://www.youtube.com/@Least.Action)
 - Lines That Connect
   - [YouTube](https://www.youtube.com/channel/UCOzuch8oW61hVYffbQ-upWw)
 - Manim Kindergarten
