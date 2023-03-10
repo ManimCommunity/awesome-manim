@@ -9,6 +9,8 @@
 - Act of Learning
   - [YouTube](https://www.youtube.com/channel/UCofF7Mp_VtoOZ9rhl_ueX7g)
   - [Twitter](https://twitter.com/muthuveerappanr)
+- Amit KD (LeastAction)
+  - [YouTube](https://www.youtube.com/@Least.Action)
 - Benjamin Hackl
   - [YouTube](https://www.youtube.com/channel/UC-PzdUy0Y5biP7EjQ1TtI_g)
   - [Twitch](https://twitch.tv/behackl)
@@ -46,8 +48,6 @@
   - [YouTube](https://www.youtube.com/channel/UCq-aIJ8sN1-G2ZzIyWYostw)
 - LearnWithManim
   - [YouTube](https://www.youtube.com/channel/UCbinG0Q-7SXQgt_pU82AYbA)
-- Amit K Das (LeastAction)
-  - [YouTube](https://www.youtube.com/@Least.Action)
 - Lines That Connect
   - [YouTube](https://www.youtube.com/channel/UCOzuch8oW61hVYffbQ-upWw)
 - Manim Kindergarten
