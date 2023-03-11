@@ -23,6 +23,8 @@
   - [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
 - CS with Terry
   - [YouTube](https://www.youtube.com/channel/UCCqI89pQq6ngYPnfgDkL2-w)
+- FauxKiwi Math
+  - [YouTube](https://www.youtube.com/@fauxkiwimath)
 - Geometry
   - [YouTube](https://www.youtube.com/channel/UCdV2RUQ4dnAchbfmvr7amUg)
 - Grant Sanderson (3blue1brown)
