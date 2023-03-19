@@ -23,6 +23,9 @@
   - [Website](https://www.brithemathguy.com/)
 - byyytes
   - [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
+- CodingWithMagga (German)
+  - [YouTube](https://www.youtube.com/channel/UCjlzef-PolOD__Q1VMWznqw)
+  - [Website](https://codingwithmagga.com/)
 - CS with Terry
   - [YouTube](https://www.youtube.com/channel/UCCqI89pQq6ngYPnfgDkL2-w)
 - FauxKiwi Math
