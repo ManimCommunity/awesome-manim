@@ -12,6 +12,11 @@
 - Againzeenox
   - [YouTube](https://youtube.com/@Mayankk20007)
   - [GitHub](https://github.com/againzeenox)
+- Aljabrak
+  - [YouTube](https://www.youtube.com/@aljabrak)
+  - [YouTube](https://www.youtube.com/@aljabrakclips)
+  - [Twitter](https://twitter.com/aljabrak)
+  - [Reddit](https://www.reddit.com/user/aljabrak)
 - Amit KD (LeastAction)
   - [YouTube](https://www.youtube.com/@Least.Action)
 - Benjamin Hackl
