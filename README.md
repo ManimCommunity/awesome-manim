@@ -82,6 +82,10 @@
 - Open Engineering
   - [GitHub](https://github.com/0xCoto/OpenEngineering)
   - [YouTube](https://www.youtube.com/channel/UCfEiVXhy9rj4wdqpD_Il6Zg)
+- Oromen Videos (Spanish)
+  - [YouTube](https://www.youtube.com/c/Oromen/)
+  - [Twitter](https://twitter.com/OromenVideos)
+  - [Telegram](https://t.me/OromenVideos)
 - ParaDoppler (Spanish)
   - [YouTube](https://www.youtube.com/channel/UCd_Kj_7JmfFwNqsV8EaaSRw)
   - [Twitter](https://twitter.com/ParaDoppler)
