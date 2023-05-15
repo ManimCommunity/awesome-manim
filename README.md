@@ -91,6 +91,9 @@
 - PHI MATH
   - [Youtube](https://www.youtube.com/channel/UC12LbJ-BLzd33XNtup_vTtw)
   - [Website](https://sumukh14jan.github.io/webber/)
+- Physicists' glasses
+  - [Youtube](https://www.youtube.com/@Physicistsglasses)
+  - [GitHub](https://github.com/PhysicistsGlasses)
 - REANLEA 
   - [Website](https://reanlea.com/)
   - [YouTube](https://www.youtube.com/reanlea)
