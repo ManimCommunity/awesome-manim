@@ -80,8 +80,9 @@
   - [YouTube](https://www.youtube.com/user/procdalsinazev)
   - [Website](http://www.olsak.net/)
 - Mashaan Alshammari
-  - [YouTube](https://www.youtube.com/@mashaan14)
+  - [GitHub](https://github.com/mashaan14/manim)
   - [Website](https://mashaan14.github.io/mashaan/manim.html)
+  - [YouTube](https://www.youtube.com/@mashaan14)
 - Open Engineering
   - [GitHub](https://github.com/0xCoto/OpenEngineering)
   - [YouTube](https://www.youtube.com/channel/UCfEiVXhy9rj4wdqpD_Il6Zg)
