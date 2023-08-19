@@ -143,6 +143,9 @@
   - [Bilibili](https://space.bilibili.com/643755221)
 - zhuli
   - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
+- A little more than an introduction to
+  - [YouTube](https://www.youtube.com/channel/UCze6YPZo6gzj-Nup2P59KUA)
+  - [GitHub](https://github.com/JonathanWoollett-Light/a-little-more-than-an-introduction-to)
 
 ## Videos
 - Calculus
