@@ -97,9 +97,9 @@
   - [Youtube](https://www.youtube.com/@Physicistsglasses)
   - [GitHub](https://github.com/PhysicistsGlasses)
 - REANLEA 
+  - [YouTube](https://www.youtube.com/reanlea) 
   - [Website](https://reanlea.com/)
-  - [YouTube](https://www.youtube.com/reanlea)
-  - [Patreon](https://www.patreon.com/reanlea)
+  - [Discord](https://discord.com/invite/r2Bd2CS6S7)
 - Reducible
   - [GitHub](https://github.com/nipunramk/Reducible)
   - [YouTube](https://www.youtube.com/channel/UCK8XIGR5kRidIw2fWqwyHRA)
