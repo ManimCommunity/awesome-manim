@@ -145,6 +145,9 @@
   - [Bilibili](https://space.bilibili.com/643755221)
 - zhuli
   - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
+- Kime Wang
+  - [Youtube](https://youtu.be/8OVBZw50kyA)
+  - [Github](https://github.com/Swarnlataaa)
 
 ## About
 - Manim Community Edition
