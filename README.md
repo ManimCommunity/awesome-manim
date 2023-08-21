@@ -50,6 +50,9 @@
   - [YouTube](https://www.youtube.com/channel/UCPX4OLPrulGFE_c1FXZjwzg)
 - Kevin Lubick
   - [YouTube](https://www.youtube.com/channel/UCAki4c6w4tJTZFZ6iIhgK5g)
+- Kime Wang
+  - [Youtube](https://www.youtube.com/@kime_wang)
+  - [Github](https://github.com/Swarnlataaa)
 - kilacoda
   - [YouTube](https://www.youtube.com/channel/UCYiEcjVorHS78RgoqKiIFgQ)
   - [GitHub](https://github.com/kilacoda)
@@ -145,9 +148,6 @@
   - [Bilibili](https://space.bilibili.com/643755221)
 - zhuli
   - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
-- Kime Wang
-  - [Youtube](https://youtu.be/8OVBZw50kyA)
-  - [Github](https://github.com/Swarnlataaa)
 
 ## About
 - Manim Community Edition
@@ -161,6 +161,13 @@
 
 ## How to contribute:
 
-> If you have any youtube channel or content creator that uses Manim, please contribute to our project.
->
-> To contribute is really simple, you just have to fork this repository, edit it in your computer and then open a pull request.
+If you have any youtube channel or content creator that uses Manim, please contribute to our project. If you'd like to have your videos showcased at https://www.manim.community/awesome/ you just need to add your YouTube channel link, the website should automatically crawl and check for the latest videos.
+
+To contribute is really simple, please follow this steps:
+
+1. Fork this repository and download it to your computer;
+2. Add your YouTube channel and other useful links (ie: Github, Patreon, Discord Server etc);
+3. Open a PR (Pull Request);
+4. After reviewed your alteration should be merged into the main repo.
+
+And again, thank you for contributing to our project by using Manim in your videos to make awesome Math content.
