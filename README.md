@@ -148,6 +148,9 @@
   - [Bilibili](https://space.bilibili.com/643755221)
 - zhuli
   - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
+- Mates con Chile
+  - [YouTube](https://www.youtube.com/channel/UC5NyuhBwsTO7Q3s2Qe7lB6A)
+ 
 
 ## About
 - Manim Community Edition
