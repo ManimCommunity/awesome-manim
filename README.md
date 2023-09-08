@@ -69,6 +69,8 @@
 - Manim Kindergarten
   - [YouTube](https://www.youtube.com/channel/UCk1nsj8AvzuSVL_I4JieVNQ)
   - [GitHub](https://github.com/manim-kindergarten)
+- Mates con Chile
+  - [YouTube](https://www.youtube.com/channel/UC5NyuhBwsTO7Q3s2Qe7lB6A)
 - MathemARTics 
   - [Youtube](https://www.youtube.com/@mathemartics)
 - Mathink
@@ -148,8 +150,6 @@
   - [Bilibili](https://space.bilibili.com/643755221)
 - zhuli
   - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
-- Mates con Chile
-  - [YouTube](https://www.youtube.com/channel/UC5NyuhBwsTO7Q3s2Qe7lB6A)
  
 
 ## About
