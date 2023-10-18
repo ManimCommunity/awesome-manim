@@ -168,6 +168,10 @@
   - [Documentation](https://3b1b.github.io/manim/)
   -  [GitHub](https://github.com/3b1b/manim)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ManimCommunity/awesome-manim&type=Date)](https://star-history.com/#ManimCommunity/awesome-manim&Date)
+
 ## How to contribute:
 
 If you have any youtube channel or content creator that uses Manim, please contribute to our project. If you'd like to have your videos showcased at https://www.manim.community/awesome/ you just need to add your YouTube channel link, the website should automatically crawl and check for the latest videos.
