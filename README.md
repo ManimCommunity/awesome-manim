@@ -52,6 +52,8 @@
 - Gergely Bencsik
   - [YouTube](https://www.youtube.com/channel/UCFYWzLgsAdveK1KBZJb8QGg)
   - [GitHub](https://github.com/GarryBGoode)
+- Instinct Mathématique
+  - [YouTube](https://www.youtube.com/channel/UCDmWzjW6YjmNyRc2GoNjieg)
 - jHan (a + bi)
   - [YouTube](https://www.youtube.com/channel/UCPX4OLPrulGFE_c1FXZjwzg)
 - Kevin Lubick
