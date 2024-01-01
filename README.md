@@ -111,6 +111,9 @@
 - Physicists' glasses
   - [Youtube](https://www.youtube.com/@Physicistsglasses)
   - [GitHub](https://github.com/PhysicistsGlasses)
+- PurpleMind
+  - [Youtube](https://www.youtube.com/@PurpleMindCS)
+  - [GitHub](https://github.com/negvoss)
 - REANLEA 
   - [YouTube](https://www.youtube.com/reanlea) 
   - [Website](https://reanlea.com/)
