@@ -84,6 +84,9 @@
 - Mathink
   - [YouTube](https://www.youtube.com/channel/UCjk8AJj6bfqG4MInL3LB-QA)
   - [GitHub](https://github.com/MathinkYT/manim_videos)
+- Matthias Wittfogel
+  - [YouTube](https://www.youtube.com/channel/UCJ0KfcrJnTDGwFDXcPe6MZQ)
+  - [GitHub](https://github.com/matthiasmitwittfogel/mastermathematics)
 - mattbatwings
   - [YouTube](https://www.youtube.com/@Mattbatwings)
   - [Patreon](https://www.patreon.com/mattbatwings)
