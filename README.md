@@ -38,6 +38,10 @@
   - [Website](https://codingwithmagga.com/)
 - CS with Terry
   - [YouTube](https://www.youtube.com/channel/UCCqI89pQq6ngYPnfgDkL2-w)
+- Chilao (痴佬)
+  - [Youtube](https://www.youtube.com/channel/UCuZnzdIvJcyW5FOWnD_MGKQ)
+  - [Bilibili](https://space.bilibili.com/289813724)
+  - [Github](https://github.com/chilaochen/manim_projects)
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)
