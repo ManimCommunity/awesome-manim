@@ -105,6 +105,9 @@
   - [GitHub](https://github.com/mashaan14/manim)
   - [Website](https://mashaan14.github.io/mashaan/manim.html)
   - [YouTube](https://www.youtube.com/@mashaan14)
+- Nathaniel Johnston
+  - [Website](https://njohnston.ca/)
+  - [YouTube](https://www.youtube.com/@NathanielMath)
 - Open Engineering
   - [GitHub](https://github.com/0xCoto/OpenEngineering)
   - [YouTube](https://www.youtube.com/channel/UCfEiVXhy9rj4wdqpD_Il6Zg)
