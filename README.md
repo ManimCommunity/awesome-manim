@@ -168,6 +168,8 @@
   - [YouTube](https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg)
   - [Twitter](https://twitter.com/BachirElKhadir)
   - [Blog](https://bachirelkhadir.com/)
+- VoxelsAnimation
+  - [YouTube](https://www.youtube.com/@voxelsanimation)
 - WuDianQiBian (五点七边)
   - [YouTube](https://www.youtube.com/channel/UCz_F7yBzxTqTEG-GvhKsCsw)
   - [Bilibili](https://space.bilibili.com/643755221)
