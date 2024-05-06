@@ -42,6 +42,11 @@
   - [Youtube](https://www.youtube.com/channel/UCuZnzdIvJcyW5FOWnD_MGKQ)
   - [Bilibili](https://space.bilibili.com/289813724)
   - [Github](https://github.com/chilaochen/manim_projects)
+- Çizgeler (Turkish)
+  - [Youtube](https://www.youtube.com/@cizgeler)
+  - [Website](https://cizgeler.github.io/)
+  - [Github](https://github.com/cizgeler)
+  - [Twitter](https://twitter.com/cizgeler)
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)
