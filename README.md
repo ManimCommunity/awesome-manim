@@ -47,7 +47,6 @@
   - [Website](https://cizgeler.github.io/)
   - [Github](https://github.com/cizgeler)
   - [Twitter](https://twitter.com/cizgeler)
-
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)
