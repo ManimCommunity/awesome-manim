@@ -113,6 +113,8 @@
 - Nathaniel Johnston
   - [Website](https://njohnston.ca/)
   - [YouTube](https://www.youtube.com/@NathanielMath)
+- Nucleus
+  - [YouTube](https://www.youtube.com/@Nucleus-ib9uy)
 - Open Engineering
   - [GitHub](https://github.com/0xCoto/OpenEngineering)
   - [YouTube](https://www.youtube.com/channel/UCfEiVXhy9rj4wdqpD_Il6Zg)
