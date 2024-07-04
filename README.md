@@ -47,6 +47,8 @@
   - [Website](https://cizgeler.github.io/)
   - [Github](https://github.com/cizgeler)
   - [Twitter](https://twitter.com/cizgeler)
+- ClassicIFS
+  - [YouTube](https://www.youtube.com/channel/UCAHS1BhH_B1NNUF_nltCLCA)
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)
