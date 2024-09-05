@@ -182,6 +182,9 @@
 - WuDianQiBian (五点七边)
   - [YouTube](https://www.youtube.com/channel/UCz_F7yBzxTqTEG-GvhKsCsw)
   - [Bilibili](https://space.bilibili.com/643755221)
+- zkMarek
+  - [Youtube] (https://www.youtube.com/@zkmarek)
+  - [Twitter] (https://twitter.com/zkmarek)
 - zhuli
   - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
  
