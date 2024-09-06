@@ -49,6 +49,8 @@
   - [Twitter](https://twitter.com/cizgeler)
 - ClassicIFS
   - [YouTube](https://www.youtube.com/channel/UCAHS1BhH_B1NNUF_nltCLCA)
+- Code
+  - [Youtube](https://www.youtube.com/@code-crash-cry)
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)
