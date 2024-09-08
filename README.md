@@ -114,6 +114,9 @@
   - [GitHub](https://github.com/mashaan14/manim)
   - [Website](https://mashaan14.github.io/mashaan/manim.html)
   - [YouTube](https://www.youtube.com/@mashaan14)
+- Matheart (數心) (in Chinese)
+  - [Github](https://github.com/Matheart)
+  - [Bilibili](https://space.bilibili.com/346660989)
 - Nathaniel Johnston
   - [Website](https://njohnston.ca/)
   - [YouTube](https://www.youtube.com/@NathanielMath)
