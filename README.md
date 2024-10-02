@@ -220,3 +220,7 @@ To contribute is really simple, please follow this steps:
 4. After reviewed your alteration should be merged into the main repo.
 
 And again, thank you for contributing to our project by using Manim in your videos to make awesome Math content.
+
+## Useful Links
+YouTube Channel: [Ad Astra Akademi](https://www.youtube.com/channel/UCaMJgntC7HcV1doiYN8Bdog)
+Other Links: https://github.com/ertsastra
