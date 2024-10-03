@@ -5,7 +5,7 @@
 </div>
 
 ## Creators
-- ad ASTRA Akademi  Channel: 
+- ad ASTRA Akademi 
   - [YouTube](https://www.youtube.com/channel/UCaMJgntC7HcV1doiYN8Bdog)
   - [İnstagram](https://www.instagram.com/akademiadastra)
   - [TikTok](https://www.tiktok.com/@adastraakademi)
