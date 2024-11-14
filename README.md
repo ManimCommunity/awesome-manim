@@ -175,6 +175,9 @@
 - sudgylacmoe
   - [YouTube](https://www.youtube.com/channel/UCEo_JfTH_9FK-7k9-mAWJkQ)
   - [Patreon](https://www.patreon.com/sudgylacmoe)
+- Varniex
+  - [YouTube](https://www.youtube.com/@Varniex)
+  - [Twitter](https://x.com/Varniex)
 - vcubingx
   - [YouTube](https://www.youtube.com/channel/UCv0nF8zWevEsSVcmz6mlw6A)
   - [Website](https://vcubingx.com/)
