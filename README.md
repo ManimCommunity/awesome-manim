@@ -56,6 +56,9 @@
   - [YouTube](https://www.youtube.com/channel/UCAHS1BhH_B1NNUF_nltCLCA)
 - Code
   - [Youtube](https://www.youtube.com/@code-crash-cry)
+- Dan4Life
+  - [Youtube](https://www.youtube.com/@dan4life)
+  - [Github](https://github.com/Dan4Life)
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)
