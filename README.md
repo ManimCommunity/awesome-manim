@@ -186,6 +186,9 @@
   - [Twitter](https://twitter.com/vcubingx)
   - [Instagram](https://www.instagram.com/vcubingx/)
   - [Twitch](https://www.twitch.tv/vcubingx)
+- Very Normal
+  - [YouTube](https://www.youtube.com/@very-normal)
+  - [Substack](https://verynormal.substack.com/)
 - Visually Explained (Bachir El Khadir)
   - [YouTube](https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg)
   - [Twitter](https://twitter.com/BachirElKhadir)
