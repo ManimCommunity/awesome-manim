@@ -160,6 +160,9 @@
 - Spectral Collective
   - [GitHub](https://github.com/vilasopher/manim)
   - [YouTube](https://www.youtube.com/channel/UC3O_3ANkml4_3wSK1yPG5DQ)
+- Svetlana Kutuzova (Deep Learning That Works)
+  - [Youtube](https://www.youtube.com/channel/UCuE0T28t_7cW_9HcEqRt9qA)
+  - [GitHub](https://github.com/sgalkina/animations)
 - Theorem of Beethoven
   - [YouTube](https://www.youtube.com/channel/UCxiWCEdx7aY88bSEUgLOC6A)
 - TheSiGuy
