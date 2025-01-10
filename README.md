@@ -98,6 +98,9 @@
 - Manim Kindergarten
   - [YouTube](https://www.youtube.com/channel/UCk1nsj8AvzuSVL_I4JieVNQ)
   - [GitHub](https://github.com/manim-kindergarten)
+- Mate con Choripán (Spanish)
+  - [Youtube](https://www.youtube.com/@mate_con_choripan)
+  - [Instagram](https://www.instagram.com/mate_con_choripan/)
 - Mates con Chile
   - [YouTube](https://www.youtube.com/channel/UC5NyuhBwsTO7Q3s2Qe7lB6A)
 - MathemARTics 
