@@ -162,6 +162,7 @@
   - [YouTube](https://www.youtube.com/channel/UC3O_3ANkml4_3wSK1yPG5DQ)
 - Svetlana Kutuzova (Deep Learning That Works)
   - [Youtube](https://www.youtube.com/channel/UCuE0T28t_7cW_9HcEqRt9qA)
+  - [Youtube in Danish](https://www.youtube.com/@deeplearningthatworkspadansk)
   - [GitHub](https://github.com/sgalkina/animations)
 - Theorem of Beethoven
   - [YouTube](https://www.youtube.com/channel/UCxiWCEdx7aY88bSEUgLOC6A)
