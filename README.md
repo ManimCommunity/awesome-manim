@@ -153,6 +153,10 @@
 - PurpleMind
   - [Youtube](https://www.youtube.com/@PurpleMindCS)
   - [GitHub](https://github.com/negvoss)
+- Question Everything Mani
+  - [Youtube](https://www.youtube.com/@queseverythgmani)
+  - [Website](https://curioquesevery.web.app/)
+  - [GitHub](https://github.com/sripathimanikanta)
 - REANLEA 
   - [YouTube](https://www.youtube.com/reanlea) 
   - [Website](https://reanlea.com/)
