@@ -38,6 +38,8 @@
   - [Website](https://www.brithemathguy.com/)
 - byyytes
   - [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
+- Codientify
+  - [Youtube](https://www.youtube.com/@codientify)
 - CodingWithMagga (German)
   - [YouTube](https://www.youtube.com/channel/UCjlzef-PolOD__Q1VMWznqw)
   - [Website](https://codingwithmagga.com/)
