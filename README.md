@@ -5,10 +5,11 @@
 </div>
 
 ## Creators
+
 - Act of Learning
   - [YouTube](https://www.youtube.com/channel/UCofF7Mp_VtoOZ9rhl_ueX7g)
   - [Twitter](https://twitter.com/muthuveerappanr)
-- ad ASTRA Akademi 
+- ad ASTRA Akademi
   - [YouTube](https://www.youtube.com/channel/UCaMJgntC7HcV1doiYN8Bdog)
   - [İnstagram](https://www.instagram.com/akademiadastra)
   - [TikTok](https://www.tiktok.com/@adastraakademi)
@@ -23,7 +24,7 @@
   - [YouTube](https://www.youtube.com/@aljabrak)
   - [YouTube](https://www.youtube.com/@aljabrakclips)
   - [Twitter](https://twitter.com/aljabrak)
-  - [Reddit](https://www.reddit.com/user/aljabrak)  
+  - [Reddit](https://www.reddit.com/user/aljabrak)
 - Amit KD (LeastAction)
   - [YouTube](https://www.youtube.com/@Least.Action)
 - Benjamin Hackl
@@ -41,6 +42,8 @@
 - CodingWithMagga (German)
   - [YouTube](https://www.youtube.com/channel/UCjlzef-PolOD__Q1VMWznqw)
   - [Website](https://codingwithmagga.com/)
+- Codientify
+  - [YouTube](https://www.youtube.com/@codientify)
 - CS with Terry
   - [YouTube](https://www.youtube.com/channel/UCCqI89pQq6ngYPnfgDkL2-w)
 - Chilao (痴佬)
@@ -105,7 +108,7 @@
   - [Instagram](https://www.instagram.com/mate_con_choripan/)
 - Mates con Chile
   - [YouTube](https://www.youtube.com/channel/UC5NyuhBwsTO7Q3s2Qe7lB6A)
-- MathemARTics 
+- MathemARTics
   - [Youtube](https://www.youtube.com/@mathemartics)
 - Mathink
   - [YouTube](https://www.youtube.com/channel/UCjk8AJj6bfqG4MInL3LB-QA)
@@ -157,8 +160,8 @@
   - [Youtube](https://www.youtube.com/@queseverythgmani)
   - [Website](https://curioquesevery.web.app/)
   - [GitHub](https://github.com/sripathimanikanta)
-- REANLEA 
-  - [YouTube](https://www.youtube.com/reanlea) 
+- REANLEA
+  - [YouTube](https://www.youtube.com/reanlea)
   - [Website](https://reanlea.com/)
   - [Discord](https://discord.com/invite/r2Bd2CS6S7)
 - Reducible
@@ -220,9 +223,9 @@
   - [Twitter](https://twitter.com/zkmarek)
 - zhuli
   - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
- 
 
 ## About
+
 - Manim Community Edition
   - [Demo/Tutorial](https://try.manim.community/)
   - [Documentation](https://docs.manim.community/en/latest/index.html)
@@ -230,7 +233,7 @@
   - [Homepage](https://www.manim.community/)
 - Manim 3b1b Edition
   - [Documentation](https://3b1b.github.io/manim/)
-  -  [GitHub](https://github.com/3b1b/manim)
+  - [GitHub](https://github.com/3b1b/manim)
 
 ## Star History
 
