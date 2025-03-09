@@ -61,6 +61,8 @@
 - Dan4Life
   - [Youtube](https://www.youtube.com/@dan4life)
   - [Github](https://github.com/Dan4Life)
+- DoRing
+  - [Youtube](https://www.youtube.com/@DoesRing)
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)
