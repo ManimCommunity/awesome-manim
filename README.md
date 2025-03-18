@@ -36,6 +36,8 @@
 - BriTheMathGuy
   - [YouTube](https://www.youtube.com/channel/UChVUSXFzV8QCOKNWGfE56YQ)
   - [Website](https://www.brithemathguy.com/)
+- Brodmann38
+  - [YouTube](https://www.youtube.com/@brodmann-38) 
 - byyytes
   - [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
 - CodingWithMagga (German)
