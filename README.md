@@ -5,6 +5,8 @@
 </div>
 
 ## Creators
+- Nyquistyle:
+  - [YouTube](https://www.youtube.com/@Nyquistyle)
 - Act of Learning
   - [YouTube](https://www.youtube.com/channel/UCofF7Mp_VtoOZ9rhl_ueX7g)
   - [Twitter](https://twitter.com/muthuveerappanr)
