@@ -114,6 +114,8 @@
   - [GitHub](https://github.com/MathinkYT/manim_videos)
 - MathWizards
   - [YouTube](https://www.youtube.com/@manim.mathwizards)
+- MathWorksWorks
+  - [YouTube](https://www.youtube.com/channel/UCW_g9NyCVbS3kx7ZJ-qEu8Q )
 - Matthias Wittfogel
   - [YouTube](https://www.youtube.com/channel/UCJ0KfcrJnTDGwFDXcPe6MZQ)
   - [GitHub](https://github.com/matthiasmitwittfogel/mastermathematics)
