@@ -155,6 +155,9 @@
 - PurpleMind
   - [Youtube](https://www.youtube.com/@PurpleMindCS)
   - [GitHub](https://github.com/negvoss)
+- Quanta de Sciences
+  - [Youtube](https://www.youtube.com/@sciences.quanta)
+  - [Website](https://sciencequanta.notion.site/Quanta-de-sciences-197424ce114b80129e85d43646784ab1)
 - Question Everything Mani
   - [Youtube](https://www.youtube.com/@queseverythgmani)
   - [Website](https://curioquesevery.web.app/)
