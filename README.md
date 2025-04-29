@@ -246,7 +246,7 @@
 
 ## How to contribute:
 
-If you have any youtube channel or content creator that uses Manim, please contribute to our project. If you'd like to have your videos showcased at https://www.manim.community/awesome/ you just need to add your YouTube channel link, the website should automatically crawl and check for the latest videos.
+If you have any youtube channel or content creator that uses Manim, please contribute to our project. If you'd like to have your videos showcased at https://www.manim.community/awesome/ you just need to add your YouTube channel link, the website should automatically crawl and check for the latest videos where "manim" appears in either the video title or the video description.
 
 To contribute is really simple, please follow this steps:
 
