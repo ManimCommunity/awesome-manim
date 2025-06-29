@@ -170,6 +170,9 @@
   - [Youtube](https://www.youtube.com/@queseverythgmani)
   - [Website](https://curioquesevery.web.app/)
   - [GitHub](https://github.com/sripathimanikanta)
+- Radical31415
+  - [Youtube](https://www.youtube.com/@Radical31415)
+  - [Twitch](https://www.twitch.tv/radical31415)
 - REANLEA
   - [YouTube](https://www.youtube.com/reanlea)
   - [Website](https://reanlea.com/)
