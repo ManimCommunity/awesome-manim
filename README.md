@@ -180,6 +180,9 @@
 - SackVideo
   - [YouTube](https://www.youtube.com/channel/UCiSAjbPtn733_ZBSQ-6T4wQ)
   - [TikTok](https://www.tiktok.com/@sackvideo)
+- Sinchronous Electronics
+  - [Youtube](https://www.youtube.com/@TLV3604)
+  - [Github](https://github.com/MichaelDerrenbacher)
 - Spectral Collective
   - [GitHub](https://github.com/vilasopher/manim)
   - [YouTube](https://www.youtube.com/channel/UC3O_3ANkml4_3wSK1yPG5DQ)
