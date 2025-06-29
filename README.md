@@ -40,6 +40,13 @@
   - [YouTube](https://www.youtube.com/@brodmann-38)
 - byyytes
   - [YouTube](https://www.youtube.com/channel/UCTLYbIZxyKFBT93YtIgvtEg)
+- Codientify
+  - [Youtube](https://www.youtube.com/@codientify)
+- CodingWithMagga (German)
+  - [YouTube](https://www.youtube.com/channel/UCjlzef-PolOD__Q1VMWznqw)
+  - [Website](https://codingwithmagga.com/)
+- CS with Terry
+  - [YouTube](https://www.youtube.com/channel/UCCqI89pQq6ngYPnfgDkL2-w)
 - Chilao (痴佬)
   - [Youtube](https://www.youtube.com/channel/UCuZnzdIvJcyW5FOWnD_MGKQ)
   - [Bilibili](https://space.bilibili.com/289813724)
