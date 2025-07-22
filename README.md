@@ -31,6 +31,8 @@
   - [Twitch](https://twitch.tv/behackl)
   - [GitHub](https://github.com/behackl)
   - [Website](https://benjamin-hackl.at)
+- BFDI Science
+  - [YouTube](https://m.youtube.com/@bfdiscience)
 - Brian Amedee
   - [YouTube](https://www.youtube.com/channel/UCnNljeRcRb_Y7Ok_TNtgB2w)
 - BriTheMathGuy
@@ -88,8 +90,6 @@
   - [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - Instinct Mathématique
   - [YouTube](https://www.youtube.com/channel/UCDmWzjW6YjmNyRc2GoNjieg)
-- joaocabralpv
-  - [Youtube](https://www.youtube.com/@joaocabralpv)
 - jHan (a + bi)
   - [YouTube](https://www.youtube.com/channel/UCPX4OLPrulGFE_c1FXZjwzg)
 - Kevin Lubick
