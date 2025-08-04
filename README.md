@@ -33,6 +33,10 @@
   - [Website](https://benjamin-hackl.at)
 - BFDI Science
   - [YouTube](https://m.youtube.com/@bfdiscience)
+- BitDahi
+  - [YouTube](https://youtube.com/@bitdahi)
+  - [Instagram](https://www.instagram.com/bitdahi)
+  - [GitHub](https://github.com/ta4anx/BitDahi-YouTube)
 - Brian Amedee
   - [YouTube](https://www.youtube.com/channel/UCnNljeRcRb_Y7Ok_TNtgB2w)
 - BriTheMathGuy
