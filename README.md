@@ -14,7 +14,7 @@
   - [TikTok](https://www.tiktok.com/@adastraakademi)
   - [Twitter](https://x.com/adastraakademi)
 - Againzeenox
-  - [YouTube](https://youtube.com/@Mayankk20007)
+  - [YouTube](https://www.youtube.com/@Mayankk20007)
   - [GitHub](https://github.com/againzeenox)
 - A little more than an introduction to
   - [YouTube](https://www.youtube.com/channel/UCze6YPZo6gzj-Nup2P59KUA)
@@ -34,7 +34,7 @@
 - BFDI Science
   - [YouTube](https://www.youtube.com/@bfdiscience)
 - BitDahi
-  - [YouTube](https://youtube.com/@bitdahi)
+  - [YouTube](https://www.youtube.com/@bitdahi)
   - [Instagram](https://www.instagram.com/bitdahi)
   - [GitHub](https://github.com/ta4anx/BitDahi-YouTube)
 - Brian Amedee
