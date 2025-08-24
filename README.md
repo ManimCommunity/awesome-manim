@@ -32,7 +32,7 @@
   - [GitHub](https://github.com/behackl)
   - [Website](https://benjamin-hackl.at)
 - BFDI Science
-  - [YouTube](https://m.youtube.com/@bfdiscience)
+  - [YouTube](https://www.youtube.com/@bfdiscience)
 - BitDahi
   - [YouTube](https://youtube.com/@bitdahi)
   - [Instagram](https://www.instagram.com/bitdahi)
