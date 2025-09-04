@@ -37,6 +37,8 @@
   - [YouTube](https://www.youtube.com/@bitdahi)
   - [Instagram](https://www.instagram.com/bitdahi)
   - [GitHub](https://github.com/ta4anx/BitDahi-YouTube)
+- blob
+  - [YouTube](https://www.youtube.com/@BlobOfConvergence)
 - Brian Amedee
   - [YouTube](https://www.youtube.com/channel/UCnNljeRcRb_Y7Ok_TNtgB2w)
 - BriTheMathGuy
