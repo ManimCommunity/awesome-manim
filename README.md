@@ -146,6 +146,8 @@
 - mattbatwings
   - [YouTube](https://www.youtube.com/@Mattbatwings)
   - [Patreon](https://www.patreon.com/mattbatwings)
+- MemLabs
+  - [Youtube](https://www.youtube.com/@memlabs-research)
 - Micro Visual Proofs (MVP)
   - [YouTube](https://www.youtube.com/channel/UCT9Fyqn0izh-wX-wDzKBwAA)
 - Miroslav Olšák
