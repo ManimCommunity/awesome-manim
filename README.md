@@ -158,6 +158,9 @@
 - Nathaniel Johnston
   - [Website](https://njohnston.ca/)
   - [YouTube](https://www.youtube.com/@NathanielMath)
+- Nillohit Roy (21st Century Corporation)
+  - [Youtube](https://www.youtube.com/@21stcenturycorporation)
+  - [Github](https://github.com/21stCenturyCorporation/Maths-Tutorial/)
 - Nucleus
   - [YouTube](https://www.youtube.com/@Nucleus-ib9uy)
 - Nyquistyle
