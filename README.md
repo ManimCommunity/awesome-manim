@@ -257,6 +257,8 @@
 - Very Normal
   - [YouTube](https://www.youtube.com/@very-normal)
   - [Substack](https://verynormal.substack.com/)
+- VirtuellVerrueckt
+  - [YouTube](https://www.youtube.com/@VirtuellVerrueckt)
 - Visual X
   - [YouTube](https://www.youtube.com/channel/UCG6qMerUJuzUxMZT7fvY4tg)
 - Visually Explained (Bachir El Khadir)
