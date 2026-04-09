@@ -243,6 +243,10 @@
 - Tomáš Sláma
   - [GitHub](https://github.com/xiaoxiae/videos)
   - [YouTube](https://www.youtube.com/channel/UC_IaBSHmisYbiYlv32EeNkQ)
+- Undeniable Dilemma
+  - [GitHub](https://github.com/neuroDEVergent)
+  - [YouTube](https://www.youtube.com/@undeniable_dillema)
+  - [Ko-fi](https://ko-fi.com/undeniabledilemma)
 - Varniex
   - [YouTube](https://www.youtube.com/@Varniex)
   - [Twitter](https://x.com/Varniex)
