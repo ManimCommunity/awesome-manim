@@ -150,6 +150,10 @@
 - Mathink
   - [YouTube](https://www.youtube.com/channel/UCjk8AJj6bfqG4MInL3LB-QA)
   - [GitHub](https://github.com/MathinkYT/manim_videos)
+- Math Lab
+  - [YouTube](http://www.youtube.com/@math_lab)
+  - [Instagram](https://www.instagram.com/mathlab36/)
+  - [Facebook](https://www.facebook.com/profile.php?id=100076151741762)
 - MathWizards
   - [YouTube](https://www.youtube.com/@manim.mathwizards)
 - MathWorksWorks
@@ -279,10 +283,6 @@
   - [Twitter](https://twitter.com/zkmarek)
 - zhuli
   - [YouTube](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA)
-- Math Lab
-  - [YouTube](http://www.youtube.com/@math_lab)
-  - [Instagram](https://www.instagram.com/mathlab36/)
-  - [Facebook](https://www.facebook.com/profile.php?id=100076151741762)
 
 ## About
 - Manim Community Edition
