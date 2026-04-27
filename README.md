@@ -142,6 +142,10 @@
   - [Instagram](https://www.instagram.com/mate_con_choripan/)
 - Mates con Chile
   - [YouTube](https://www.youtube.com/channel/UC5NyuhBwsTO7Q3s2Qe7lB6A)
+- Math Lab
+  - [YouTube](http://www.youtube.com/@math_lab)
+  - [Instagram](https://www.instagram.com/mathlab36/)
+  - [Facebook](https://www.facebook.com/profile.php?id=100076151741762)
 - Matheart (數心) (in Chinese)
   - [Github](https://github.com/Matheart)
   - [Bilibili](https://space.bilibili.com/346660989)
@@ -150,10 +154,6 @@
 - Mathink
   - [YouTube](https://www.youtube.com/channel/UCjk8AJj6bfqG4MInL3LB-QA)
   - [GitHub](https://github.com/MathinkYT/manim_videos)
-- Math Lab
-  - [YouTube](http://www.youtube.com/@math_lab)
-  - [Instagram](https://www.instagram.com/mathlab36/)
-  - [Facebook](https://www.facebook.com/profile.php?id=100076151741762)
 - MathWizards
   - [YouTube](https://www.youtube.com/@manim.mathwizards)
 - MathWorksWorks
