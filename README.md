@@ -273,6 +273,12 @@
   - [YouTube](https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg)
   - [Twitter](https://twitter.com/BachirElKhadir)
   - [Blog](https://bachirelkhadir.com/)
+- VolSight
+  - [YouTube](https://www.youtube.com/@VolSightYT)
+  - [Patreon](https://www.patreon.com/cw/VolSightYT)
+  - [Instagram](https://www.instagram.com/volsightyt/)
+  - [Threads](https://www.threads.com/@volsightyt)
+  - [Reddit](https://www.reddit.com/user/VolSightYT/)
 - VoxelsAnimation
   - [YouTube](https://www.youtube.com/@voxelsanimation)
 - WuDianQiBian (五点七边)
