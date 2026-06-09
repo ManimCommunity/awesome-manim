@@ -56,6 +56,8 @@
   - [Youtube](https://www.youtube.com/channel/UCuZnzdIvJcyW5FOWnD_MGKQ)
   - [Bilibili](https://space.bilibili.com/289813724)
   - [Github](https://github.com/chilaochen/manim_projects)
+- Chris Wuthrich
+  - [Youtube](https://www.youtube.com/@christianwuthrich7706)
 - Çizgeler (Turkish)
   - [Youtube](https://www.youtube.com/@cizgeler)
   - [Website](https://cizgeler.github.io/)
