@@ -1,7 +1,7 @@
 <div align='center'>
   <a href="https://github.com/lucasricci/awesome-manim"><img alt="Manim Logo" src='https://raw.githubusercontent.com/ManimCommunity/awesome-manim/main/img/awesome-manim-logo.png'></a>
   <h1>Awesome Manim :star:</h1>
-  <caption>A community-driven list of <em>awesome</em> content creators utilizing the python framework <b>Manim</b>, which let's you create mathematical animations! If you are or know any, please open an issue or contribute to the repository.</caption>
+  <caption>A community-driven list of <em>awesome</em> content creators utilizing the Python framework <b>Manim</b>, which lets you create mathematical animations! If you are such a content creator or know any, please open an issue or contribute to the repository by following the instructions at the end of this list.</caption>
 </div>
 
 ## Creators
@@ -308,13 +308,21 @@
 
 ## How to contribute:
 
-If you have any youtube channel or content creator that uses Manim, please contribute to our project. If you'd like to have your videos showcased at https://www.manim.community/awesome/ you just need to add your YouTube channel link, the website should automatically crawl and check for the latest videos where "manim" appears in either the video title or the video description.
+If you have any YouTube channel or content that uses Manim, please contribute to our project. If you'd like to have your videos showcased at https://www.manim.community/awesome/, you just need to add your YouTube channel link. The Awesome Manim website should automatically crawl and check for the latest videos where the keywords "manim" and/or "SoME" appear in either the video title or the video description.
 
-To contribute is really simple, please follow this steps:
+Contributing is really simple! Please follow these steps:
 
-1. Fork this repository and download it to your computer;
-2. Add your YouTube channel and other useful links (ie: Github, Patreon, Discord Server etc);
-3. Open a PR (Pull Request);
-4. After reviewed your alteration should be merged into the main repo.
+1. Fork this repository and download it to your computer.
+2. Add your YouTube channel and other useful links (ie: Github, Patreon, Discord server, etc.), keeping the alphanumeric order of the list of creators. Make sure that your YouTube channel link follows any of these formats:
 
-And again, thank you for contributing to our project by using Manim in your videos to make awesome Math content.
+   - `https://www.youtube.com/channel/CHANNEL_NAME`
+   - `https://www.youtube.com/c/CHANNEL_NAME`
+   - `https://www.youtube.com/@CHANNEL_NAME`
+
+If your link is missing the `https://` prefix, it has a `http://` prefix instead, it's missing the `www.`,  or it's a link to a specific video rather than a YouTube channel, the website will not fetch any videos from there!
+
+4. Open a PR (Pull Request) with your changes.
+5. Wait for a review from the maintainers, where they either request some changes or approve and merge your PR.
+6. After your changes are approved and merged into the repo, you should be able to see your YouTube videos on the website after some hours or the next day!
+
+Again, thank you for contributing to our project by using Manim in your videos to make awesome math content.
