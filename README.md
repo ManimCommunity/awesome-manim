@@ -173,6 +173,9 @@
 - Miroslav Olšák
   - [YouTube](https://www.youtube.com/user/procdalsinazev)
   - [Website](http://www.olsak.net/)
+- M.P.
+  - [YouTube](https://www.youtube.com/@we_aaaa)
+  - [Reddit](http://www.reddit.com/user/Ok-Brush-4095) 
 - Nathaniel Johnston
   - [Website](https://njohnston.ca/)
   - [YouTube](https://www.youtube.com/@NathanielMath)
