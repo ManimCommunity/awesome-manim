@@ -171,7 +171,7 @@
 - Micro Visual Proofs (MVP)
   - [YouTube](https://www.youtube.com/channel/UCT9Fyqn0izh-wX-wDzKBwAA)
 - Miroslav Olšák
-  - [YouTube](https://www.youtube.com/user/procdalsinazev)
+  - [YouTube](https://www.youtube.com/@procdalsinazev)
   - [Website](http://www.olsak.net/)
 - Nathaniel Johnston
   - [Website](https://njohnston.ca/)
