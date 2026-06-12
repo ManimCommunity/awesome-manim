@@ -315,7 +315,7 @@ Contributing is really simple! Please follow these steps:
 1. Fork this repository and download it to your computer.
 2. Add your YouTube channel and other useful links (ie: Github, Patreon, Discord server, etc.), keeping the alphanumeric order of the list of creators. Make sure that your YouTube channel link follows any of these formats:
 
-   - `https://www.youtube.com/channel/CHANNEL_NAME`
+   - `https://www.youtube.com/channel/CHANNEL_ID`
    - `https://www.youtube.com/c/CHANNEL_NAME`
    - `https://www.youtube.com/@CHANNEL_NAME`
 
