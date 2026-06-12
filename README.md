@@ -319,7 +319,7 @@ Contributing is really simple! Please follow these steps:
    - `https://www.youtube.com/c/CHANNEL_NAME`
    - `https://www.youtube.com/@CHANNEL_NAME`
 
-If your link is missing the `https://` prefix, it has a `http://` prefix instead, it's missing the `www.`,  or it's a link to a specific video rather than a YouTube channel, the website will not fetch any videos from there!
+If your link is missing the `https://` prefix, it has a `http://` prefix instead, it's missing the `www.`, it includes `user` instead of `channel`, or it's a link to a specific video rather than a YouTube channel, the website will not fetch any videos from there!
 
 3. Open a PR (Pull Request) with your changes.
 4. Wait for a review from the maintainers, where they either request some changes or approve and merge your PR.
