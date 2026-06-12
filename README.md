@@ -321,8 +321,8 @@ Contributing is really simple! Please follow these steps:
 
 If your link is missing the `https://` prefix, it has a `http://` prefix instead, it's missing the `www.`,  or it's a link to a specific video rather than a YouTube channel, the website will not fetch any videos from there!
 
-4. Open a PR (Pull Request) with your changes.
-5. Wait for a review from the maintainers, where they either request some changes or approve and merge your PR.
-6. After your changes are approved and merged into the repo, you should be able to see your YouTube videos on the website after some hours or the next day!
+3. Open a PR (Pull Request) with your changes.
+4. Wait for a review from the maintainers, where they either request some changes or approve and merge your PR.
+5. After your changes are approved and merged into the repo, you should be able to see your YouTube videos on the website after some hours or the next day!
 
 Again, thank you for contributing to our project by using Manim in your videos to make awesome math content.
