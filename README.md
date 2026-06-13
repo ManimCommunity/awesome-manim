@@ -244,6 +244,8 @@
   - [Youtube in Danish](https://www.youtube.com/@deeplearningthatworkspadansk)
   - [Youtube in Russian](https://www.youtube.com/@deeplearningthatworksru)
   - [GitHub](https://github.com/sgalkina/animations)
+- The Observer Effect
+  - [YouTube](https://www.youtube.com/@TheObserverEffect-quantum)
 - Theorem of Beethoven
   - [YouTube](https://www.youtube.com/channel/UCxiWCEdx7aY88bSEUgLOC6A)
 - TheSiGuy
