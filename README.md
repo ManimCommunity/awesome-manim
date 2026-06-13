@@ -246,6 +246,8 @@
   - [GitHub](https://github.com/sgalkina/animations)
 - Theorem of Beethoven
   - [YouTube](https://www.youtube.com/channel/UCxiWCEdx7aY88bSEUgLOC6A)
+- The Observer Effect
+  - [YouTube](https://www.youtube.com/@TheObserverEffect-quantum)
 - TheSiGuy
   - [YouTube](https://www.youtube.com/channel/UCcTgnJE_RKa8-Qzx6lB78lg)
   - [Facebook](https://www.facebook.com/thesiguyEN/)
