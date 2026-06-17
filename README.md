@@ -41,6 +41,9 @@
   - [YouTube](https://www.youtube.com/@bitdahi)
   - [Instagram](https://www.instagram.com/bitdahi)
   - [GitHub](https://github.com/ta4anx/BitDahi-YouTube)
+- Bits and Bytes
+  - [YouTube](https://www.youtube.com/@learnbitsandbytes)
+  - [Instagram](https://www.instagram.com/learnbitsandbytes)
 - blob
   - [YouTube](https://www.youtube.com/@BlobOfConvergence)
 - Brian Amedee
