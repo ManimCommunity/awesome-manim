@@ -233,6 +233,8 @@
 - SackVideo
   - [YouTube](https://www.youtube.com/channel/UCiSAjbPtn733_ZBSQ-6T4wQ)
   - [TikTok](https://www.tiktok.com/@sackvideo)
+- Simon Kurgan
+  - [YouTube](https://www.youtube.com/@Simon-ty4wj)
 - Sinchronous Electronics
   - [Youtube](https://www.youtube.com/@TLV3604)
   - [Github](https://github.com/MichaelDerrenbacher)
