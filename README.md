@@ -283,6 +283,9 @@
   - [YouTube](https://www.youtube.com/@VirtuellVerrueckt)
 - Visual X
   - [YouTube](https://www.youtube.com/channel/UCG6qMerUJuzUxMZT7fvY4tg)
+- Visualizing_mathematics
+  - [YouTube](https://www.youtube.com/@Visualizing_mathematics/shorts)
+  - [Reddit](https://www.reddit.com/user/USedona/submitted/)
 - Visually Explained (Bachir El Khadir)
   - [YouTube](https://www.youtube.com/channel/UCoTo2gtN527CXhe7jbP6hUg)
   - [Twitter](https://twitter.com/BachirElKhadir)
