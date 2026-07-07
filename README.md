@@ -90,6 +90,8 @@
   - [Bluesky](https://bsky.app/profile/donaldshenaj.bsky.social)
 - DoRing
   - [Youtube](https://www.youtube.com/@DoesRing)
+- DotCorzo
+  - [YouTube](https://www.youtube.com/@DotCorzo)
 - Edward Mukan
   - [YouTube](https://www.youtube.com/channel/UC_GQSq-JQNBN60xaYFMBfkg)
   - [Website](https://emukans.github.io/)
@@ -233,6 +235,8 @@
 - SackVideo
   - [YouTube](https://www.youtube.com/channel/UCiSAjbPtn733_ZBSQ-6T4wQ)
   - [TikTok](https://www.tiktok.com/@sackvideo)
+- Simon Kurgan
+  - [YouTube](https://www.youtube.com/@Simon-ty4wj)
 - Sinchronous Electronics
   - [Youtube](https://www.youtube.com/@TLV3604)
   - [Github](https://github.com/MichaelDerrenbacher)
