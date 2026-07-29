@@ -189,6 +189,8 @@
   - [Github](https://github.com/21stCenturyCorporation/Maths-Tutorial/)
 - Nucleus
   - [YouTube](https://www.youtube.com/@Nucleus-ib9uy)
+- Numericati
+  - [YouTube](https://www.youtube.com/@Numericati)
 - Nyquistyle
   - [YouTube](https://www.youtube.com/@Nyquistyle)
 - Open Engineering
