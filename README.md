@@ -318,7 +318,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ManimCommunity/awesome-manim&type=Date)](https://www.star-history.com/#ManimCommunity/awesome-manim&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ManimCommunity/awesome-manim&type=Date)](https://star-history.dera.page/#ManimCommunity/awesome-manim&Date)
 
 ## How to contribute:
 
