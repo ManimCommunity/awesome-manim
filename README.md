@@ -225,6 +225,9 @@
 - Radical31415
   - [Youtube](https://www.youtube.com/@Radical31415)
   - [Twitch](https://www.twitch.tv/radical31415)
+- rayplusplus
+  - [Youtube](https://www.youtube.com/@rayplusplus)
+  - [X](https://x.com/rayplusplus_)
 - REANLEA
   - [YouTube](https://www.youtube.com/reanlea)
   - [Website](https://reanlea.com/)
