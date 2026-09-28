@@ -108,6 +108,10 @@
   - [YouTube](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - Instinct Mathématique
   - [YouTube](https://www.youtube.com/channel/UCDmWzjW6YjmNyRc2GoNjieg)
+- Jake
+  - [YouTube](https://www.youtube.com/@jakedvs)
+  - [GitHub](https://github.com/jakedves)
+  - [Website](https://www.jakedavies.dev)
 - jHan (a + bi)
   - [YouTube](https://www.youtube.com/channel/UCPX4OLPrulGFE_c1FXZjwzg)
 - KaTuripu
