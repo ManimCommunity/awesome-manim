@@ -16,7 +16,7 @@
 - Againzeenox
   - [YouTube](https://www.youtube.com/@Mayankk20007)
   - [GitHub](https://github.com/againzeenox)
-- AION
+- Aion
   - [YouTube](https://www.youtube.com/@aion-v2h)
 - A little more than an introduction to
   - [YouTube](https://www.youtube.com/channel/UCze6YPZo6gzj-Nup2P59KUA)
