@@ -16,6 +16,8 @@
 - Againzeenox
   - [YouTube](https://www.youtube.com/@Mayankk20007)
   - [GitHub](https://github.com/againzeenox)
+- AION
+  - [YouTube](https://www.youtube.com/@aion-v2h)
 - A little more than an introduction to
   - [YouTube](https://www.youtube.com/channel/UCze6YPZo6gzj-Nup2P59KUA)
   - [GitHub](https://github.com/JonathanWoollett-Light/a-little-more-than-an-introduction-to)
