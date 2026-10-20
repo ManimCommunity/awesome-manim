@@ -248,6 +248,8 @@
 - SackVideo
   - [YouTube](https://www.youtube.com/channel/UCiSAjbPtn733_ZBSQ-6T4wQ)
   - [TikTok](https://www.tiktok.com/@sackvideo)
+- Scientia Explained
+  - [YouTube](https://www.youtube.com/@ScientiaExplained)
 - Simon Kurgan
   - [YouTube](https://www.youtube.com/@Simon-ty4wj)
 - Sinchronous Electronics
