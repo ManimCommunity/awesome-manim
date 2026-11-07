@@ -155,6 +155,9 @@
 - Mate con Choripán (Spanish)
   - [Youtube](https://www.youtube.com/@mate_con_choripan)
   - [Instagram](https://www.instagram.com/mate_con_choripan/)
+- Matematikleşmek
+  - [YouTube](https://www.youtube.com/@matematiklesmek)
+  - [Instagram](https://www.instagram.com/matematiklesmek)
 - Mates con Chile
   - [YouTube](https://www.youtube.com/channel/UC5NyuhBwsTO7Q3s2Qe7lB6A)
 - Math Lab
