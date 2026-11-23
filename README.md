@@ -34,6 +34,10 @@
   - [YouTube](https://www.youtube.com/@hdoMRIphysics)
   - [Substack Newsletter](https://hdomriphysics.substack.com/about)
   - [Website](https://hdocmsu.github.io/)
+- Aristides Kontogeorgis
+  - [YouTube (English)](https://www.youtube.com/@KontogeorgisMath)
+  - [YouTube (Greek)](https://www.youtube.com/@aristideskontogeorgis3993)
+  - [Website](http://users.uoa.gr/~kontogar/videos.html)
 - Benjamin Hackl
   - [YouTube](https://www.youtube.com/channel/UC-PzdUy0Y5biP7EjQ1TtI_g)
   - [Twitch](https://twitch.tv/behackl)
